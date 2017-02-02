@@ -21,25 +21,25 @@ Coming Soon
 ## Retreats
 Coming Soon
 ## Flights
-- [Kiwi.com](kiwi.com) - Advanced flexible search tool for finding cheap flights.
-- [Kayak](kayak.com/flights) - View pricing trends for journeys and set up price alerts.
-- [FlyOnward](flyonward.com) - Rent an onward flight ticket for $9.99 to satisfy immigration requirements in countries such as Malaysia and New Zealand.
-- [App in the Air](appintheair.mobi) - Manage your upcoming flights and view your flight history - _iOS, Android, and Windows Phone_.
-- [Flightfox](flightfox.com) - Online travel agent that guarantees to save you money on your trip.
-- [SeatGuru](seatguru.com) - Aircraft seat maps to find the best seats for your flight.
-- [SleepingInAirports](sleepinginaiports.net) - Detailed airport guides to make the most of your time in limbo.
+- [Kiwi.com](http://kiwi.com) - Advanced flexible search tool for finding cheap flights.
+- [Kayak](http://kayak.com/flights) - View pricing trends for journeys and set up price alerts.
+- [FlyOnward](http://flyonward.com) - Rent an onward flight ticket for $9.99 to satisfy immigration requirements in countries such as Malaysia and New Zealand.
+- [App in the Air](http://appintheair.mobi) - Manage your upcoming flights and view your flight history - _iOS, Android, and Windows Phone_.
+- [Flightfox](http://flightfox.com) - Online travel agent that guarantees to save you money on your trip.
+- [SeatGuru](http://seatguru.com) - Aircraft seat maps to find the best seats for your flight.
+- [SleepingInAirports](http://sleepinginaiports.net) - Detailed airport guides to make the most of your time in limbo.
 
 ## Accomodation
 Coming Soon
 ## Getting Around
 Coming Soon
 ## Communities & Networking
-- [Nomad List Chat](nomadlist.com/chat) - Connect with other nomads to get advice or organise meetups.
-- [Digital Nomad Forum](nomadforum.io) - Need advice from other nomads but don't have time to sit around waiting for answers in the chat room? Start a topic on the forum...
-- [Couchsurfing](couchsurfing.com) - Couchsurfing isn't just for free sofas. Find groups and social events in cities around the world.
-- [Meetup](meetup.com) - Find and organise meetups in cities across the world.
-- [Facebook Groups](groups.fb.com) - Find groups for buying/selling, hiking, common interests, local advice and more.
-- [Nomad List Radar](nomadlist.com/radar) - Keep track of your nomadic friends whereabouts and meet up for :beers: when your paths cross.
+- [Nomad List Chat](http://nomadlist.com/chat) - Connect with other nomads to get advice or organise meetups.
+- [Digital Nomad Forum](http://nomadforum.io) - Need advice from other nomads but don't have time to sit around waiting for answers in the chat room? Start a topic on the forum...
+- [Couchsurfing](http://couchsurfing.com) - Couchsurfing isn't just for free sofas. Find groups and social events in cities around the world.
+- [Meetup](http://meetup.com) - Find and organise meetups in cities across the world.
+- [Facebook Groups](http://groups.fb.com) - Find groups for buying/selling, hiking, common interests, local advice and more.
+- [Nomad List Radar](http://nomadlist.com/radar) - Keep track of your nomadic friends whereabouts and meet up for :beers: when your paths cross.
 
 ## Remote Jobs
 Coming Soon
