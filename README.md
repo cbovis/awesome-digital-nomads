@@ -34,7 +34,13 @@ Coming Soon
 ## Getting Around
 Coming Soon
 ## Communities & Networking
-Coming Soon
+- [Nomad List Chat](nomadlist.com/chat) - Connect with other nomads to get advice or organise meetups.
+- [Digital Nomad Forum](nomadforum.io) - Need advice from other nomads but don't have time to sit around waiting for answers in the chat room? Start a topic on the forum...
+- [Couchsurfing](couchsurfing.com) - Couchsurfing isn't just for free sofas. Find groups and social events in cities around the world.
+- [Meetup](meetup.com) - Find and organise meetups in cities across the world.
+- [Facebook Groups](groups.fb.com) - Find groups for buying/selling, hiking, common interests, local advice and more.
+- [Nomad List Radar](nomadlist.com/radar) - Keep track of your nomadic friends whereabouts and meet up for :beers: when your paths cross.
+
 ## Remote Jobs
 Coming Soon
 ## Gear
