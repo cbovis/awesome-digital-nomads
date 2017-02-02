@@ -27,7 +27,7 @@ Coming Soon
 - [App in the Air](http://appintheair.mobi) - Manage your upcoming flights and view your flight history - _iOS, Android, and Windows Phone_.
 - [Flightfox](http://flightfox.com) - Online travel agent that guarantees to save you money on your trip.
 - [SeatGuru](http://seatguru.com) - Aircraft seat maps to find the best seats for your flight.
-- [SleepingInAirports](http://sleepinginaiports.net) - Detailed airport guides to make the most of your time in limbo.
+- [SleepingInAirports](http://sleepinginairports.net) - Detailed airport guides to make the most of your time in limbo.
 
 ## Accomodation
 Coming Soon
