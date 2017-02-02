@@ -21,7 +21,14 @@ Coming Soon
 ## Retreats
 Coming Soon
 ## Flights
-Coming Soon
+- [Kiwi.com](kiwi.com) - Advanced flexible search tool for finding cheap flights.
+- [Kayak](kayak.com/flights) - View pricing trends for journeys and set up price alerts.
+- [FlyOnward](flyonward.com) - Rent an onward flight ticket for $9.99 to satisfy immigration requirements in countries such as Malaysia and New Zealand.
+- [App in the Air](appintheair.mobi) - Manage your upcoming flights and view your flight history - _iOS, Android, and Windows Phone_.
+- [Flightfox](flightfox.com) - Online travel agent that guarantees to save you money on your trip.
+- [SeatGuru](seatguru.com) - Aircraft seat maps to find the best seats for your flight.
+- [SleepingInAirports](sleepinginaiports.net) - Detailed airport guides to make the most of your time in limbo.
+
 ## Accomodation
 Coming Soon
 ## Getting Around
