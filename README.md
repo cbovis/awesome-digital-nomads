@@ -32,7 +32,15 @@ Coming Soon
 ## Accomodation
 Coming Soon
 ## Getting Around
-Coming Soon
+- [Moovit](http://moovitapp.com) - The worlds largest transit app supporting over 1,200 cities in over 70 countries - _iOS and Android_.
+- [Citymapper](http://citymapper.com) - Arguably the best transit app available but limited to 40 cities. Use it when you can and fall back to Moovit if necessary - _iOS and Android_.
+- [Rome2rio](http://rome2rio.com) - Global trip planner which gets you from A to B using flights, ferries, trains and buses. Great for when you're moving between cities - _iOS and Android_.
+- [Uber](http://uber.com) - The big daddy of ride sharing apps, it goes without saying this should be on your phone. Available in over 500 cities worldwide - _iOS, Android, and Windows Phone_.
+- [Grab](http://grab.com) - Uber may be your go to taxi app for most of the world but, in SE Asia, Grab is king - _iOS and Android_.
+- [Wikivoyage](http://wikivoyage.org) - When Rome2rio or Moovit fail to provide directions you may just find the information you need on Wikivoyage. Destination guides here typically have 'get in', 'get around' and 'get out' sections, useful in some of the more rural areas.
+- [Maps.me](http://maps.me) - Offline maps and POIs to get you around on foot when you don't have an internet connection - _iOS, Android, and Kindle Fire_.
+- [Waze](http://waze.com) - The world's largest community-based traffic and navigation app. Perfect for those brave enough to drive abroad - _iOS and Android_.
+
 ## Communities & Networking
 - [Nomad List Chat](http://nomadlist.com/chat) - Connect with other nomads to get advice or organise meetups.
 - [Digital Nomad Forum](http://nomadforum.io) - Need advice from other nomads but don't have time to sit around waiting for answers in the chat room? Start a topic on the forum...
