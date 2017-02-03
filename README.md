@@ -51,8 +51,12 @@ Coming Soon
 
 ## Remote Jobs
 Coming Soon
+
 ## Workspaces
-Coming Soon
+- [Workfrom](http://workfrom.co) - The most comprehensive directory of public and private workspaces across the globe.
+- [Café Wifi](http://cafewifi.com) - Find cafes nearby that are suitable for working from and details about them such as wifi speeds, power outlet availability and seating comfort - _iOS_.
+- [Copass](http://copass.org) - Global network of over 500 coworking spaces accessed via a single monthly membership.
+
 ## Gear
 Coming Soon
 ## Finance
