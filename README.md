@@ -43,6 +43,8 @@ Coming Soon
 
 ## Remote Jobs
 Coming Soon
+## Workspaces
+Coming Soon
 ## Gear
 Coming Soon
 ## Finance
