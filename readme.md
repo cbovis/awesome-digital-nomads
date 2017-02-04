@@ -90,8 +90,15 @@ Coming Soon
 Coming Soon
 ## Communication
 Coming Soon
+
 ## Languages
-Coming Soon
+- [Google Translate](http://translate.google.com) - The big daddy of translation apps with support for over 100 languages and 50 offline languages as well as photo translation - _iOS and Android_.
+- [Point It: Traveller's Language Kit](http://goodreads.com/book/show/831179.Point_It) - Passport sized traveler's picture dictionary containing photographs of 1,200 items grouped into categories such as food and drink, accommodation, transportation, automobiles, entertainment, nightlife and health.
+- [Food Allergy Translate](http://foodallergytranslate.com) - Mobile apps and physical cards to notify restaurants of your food allergies - _iOS, Android, and Windows Phone_.
+- [Fluent In 3 Months](https://www.goodreads.com/book/show/18085519-fluent-in-3-months) - If you've always struggled with learning foreign languages then be sure to check out this great book by Benny Lewis.
+- [Duolingo](http://duolingo.com) - The original and arguably most enjoyable language learning app with support for over 20 languages - _iOS, Android and Windows Phone_.
+- [Memrise](http://memrise.com) - Not quite as fun as Duolingo but still a solid contender on the language learning scene with support for over 200 languages - _iOS and Android_.
+
 ## Miscellaneous
 Coming Soon
 
