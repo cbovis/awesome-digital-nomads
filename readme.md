@@ -11,7 +11,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Flights](#flights)
 - [Accomodation](#accomodation)
 - [Getting Around](#getting-around)
-- [Communities & Networking](#communities-and-networking)
+- [Communities & Social](#communities-and-social)
 - [Remote Jobs](#remote-jobs)
 - [Gear](#gear)
 - [Finance](#finance)
