@@ -72,6 +72,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Meetup](http://meetup.com) - Find and organise meetups in cities across the world.
 - [Facebook Groups](http://groups.fb.com) - Find groups for buying/selling, hiking, common interests, local advice and more.
 - [Nomad List Radar](http://nomadlist.com/radar) - Keep track of your nomadic friends whereabouts and meet up for :beers: when your paths cross.
+- [Withlocals](http://withlocals.com) - Find paid tours and experiences with verified locals in over 20 countries.
 
 ## Remote Jobs
 Coming Soon
