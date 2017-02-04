@@ -21,7 +21,12 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Miscellaneous](#miscellaneous)
 
 ## Destination Guides
-Coming Soon
+- [Nomad List](http://nomadlist.com) - Search for your next base using digital nomad friendly filters such as internet quality, living costs, and places to work.
+- [Lonely Planet](http://lonelyplanet.com) - The most recognised travel guides for over fourty years, start here to whet your appetite for a location.
+- [Atlas Obscura](http://atlasobscura.com) - The definitive guide to the world's wondrous and curious places.
+- [Wikivoyage](http://wikivoyage.org) - Fantastic free travel guides that anyone can edit.
+- [Triposo](http://triposo.com/gettheapp/) - Smart offline travel guides for your phone and tablet - _iOS and Android_.
+- [Foursquare](http://foursquare.com/download) - Find the best places to eat, drink, shop, or visit in any city in the world - _iOS, Android, and Windows Phone_.
 
 ## Retreats
 - [Destination: Dev](http://destinationdev.com) - Program that brings together 10 like-minded individuals for eight intense weeks of software development education and cultural immersion.
