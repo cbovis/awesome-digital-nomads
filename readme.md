@@ -19,6 +19,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Communication](#communication)
 - [Languages](#languages)
 - [Miscellaneous](#miscellaneous)
+- [Destination Guides](#destination-guides)
 
 ## Travel Planning
 - [Lonely Planet](http://lonelyplanet.com) - The most recognised travel guides for over fourty years, start here for inspiration.
