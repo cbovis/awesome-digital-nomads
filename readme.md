@@ -6,7 +6,7 @@ Looking for contributors. Submit a pull request if you have something to add :)
 _Please check the [contribution guidelines](contributing.md) for info on formatting and writing pull requests._
 
 ## Contents
-- [Destination Guides](#destination-guides)
+- [Travel Planning](#travel-planning)
 - [Retreats](#retreats)
 - [Flights](#flights)
 - [Accomodation](#accomodation)
