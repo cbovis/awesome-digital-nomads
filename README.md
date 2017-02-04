@@ -1,6 +1,10 @@
 # Awesome Digital Nomads [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > A curated list of awesome resources for Digital Nomads.
 
+Looking for contributors. Submit a pull request if you have something to add :)
+
+_Please check the [contribution guidelines](contributing.md) for info on formatting and writing pull requests._
+
 ## Contents
 - [Destination Guides](#destination-guides)
 - [Retreats](#retreats)
