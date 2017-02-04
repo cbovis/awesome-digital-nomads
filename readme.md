@@ -65,7 +65,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Maps.me](http://maps.me) - Offline maps and POIs to get you around on foot when you don't have an internet connection - _iOS, Android, and Kindle Fire_.
 - [Waze](http://waze.com) - The world's largest community-based traffic and navigation app. Perfect for those brave enough to drive abroad - _iOS and Android_.
 
-## Communities & Networking
+## Communities & Social
 - [Nomad List Chat](http://nomadlist.com/chat) - Connect with other nomads to get advice or organise meetups.
 - [Digital Nomad Forum](http://nomadforum.io) - Need advice from other nomads but don't have time to sit around waiting for answers in the chat room? Start a topic on the forum...
 - [Couchsurfing](http://couchsurfing.com) - Couchsurfing isn't just for free sofas. Find groups and social events in cities around the world.
