@@ -43,7 +43,13 @@ Coming Soon
 - [SleepingInAirports](http://sleepinginairports.net) - Detailed airport guides to make the most of your time in limbo.
 
 ## Accomodation
-Coming Soon
+- [Airbnb](http://airbnb.com) - Short term rooms and private apartments at affordable rates.
+- [Kayak](http://kayak.com/hotels) - Compare hotel prices across leading booking websites including Expedia, Booking.com, Agoda, and Hotels.com.
+- [Hostelworld](http://hostelworld.com) - Budget accomodation for nomads that prefer a more social environment or need to keep costs down.
+- [Couchsurfing](http://couchsurfing.com) - The ultimate budget accomodation, meet new people and join in local experiences in exchange for a free bed or couch.
+- [Colive.co](http://colive.co) - Find and organise coliving arrangements with other nomads.
+- [Coliving](https://coliving.com) - Find coliving spaces around the world to live with like-minded individuals.
+
 ## Getting Around
 - [Moovit](http://moovitapp.com) - The worlds largest transit app supporting over 1,200 cities in over 70 countries - _iOS and Android_.
 - [Citymapper](http://citymapper.com) - Arguably the best transit app available but limited to 40 cities. Use it when you can and fall back to Moovit if necessary - _iOS and Android_.
