@@ -20,9 +20,9 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Languages](#languages)
 - [Miscellaneous](#miscellaneous)
 
-## Destination Guides
+## Travel Planning
+- [Lonely Planet](http://lonelyplanet.com) - The most recognised travel guides for over fourty years, start here for inspiration.
 - [Nomad List](http://nomadlist.com) - Search for your next base using digital nomad friendly filters such as internet quality, living costs, and places to work.
-- [Lonely Planet](http://lonelyplanet.com) - The most recognised travel guides for over fourty years, start here to whet your appetite for a location.
 - [Atlas Obscura](http://atlasobscura.com) - The definitive guide to the world's wondrous and curious places.
 - [Wikivoyage](http://wikivoyage.org) - Fantastic free travel guides that anyone can edit.
 - [Triposo](http://triposo.com/gettheapp/) - Smart offline travel guides for your phone and tablet - _iOS and Android_.
