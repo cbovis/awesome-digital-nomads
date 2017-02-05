@@ -90,8 +90,17 @@ Coming Soon
 Coming Soon
 ## Security & Backup
 Coming Soon
+
 ## Communication
-Coming Soon
+- [Facebook Messenger](http://messenger.com) - The best way to keep in touch with friends and family – chat, video, voice calls and group chat for free.
+- [WhatsApp](http://whatsapp.com) - Keep in touch with people you don't have on Facebook, it goes without saying that WhatsApp should be in your kit. Available for most platforms.
+- [Skype](http://skype.com/) - The defacto option for many when it comes to business video calling.
+- [join.me](http://join.me) - The easiest way to organise group conferences with support for scheduling, video, whiteboarding and screen sharing.
+- [Slack](http://slack.com/is) - Slack has quickly become the go-to team communication tool for many businesses. Get your company on board the train if they're not already.
+- [WiFi Map](http://www.wifimap.io) - Get access to over 100 million free wifi hotspots worldwide - _iOS and Android_.
+- [Prepaid Data Sim Card Wiki](http://prepaid-data-sim-card.wikia.com/wiki/Prepaid_SIM_with_data) - Find out information on prepaid sim cards in over 150 countries.
+- [ChatSim](http://chatsim.com) - Unlimited chat using your favourite apps in over 150 countries for a single yearly fee.
+- [Project Fi](http://fi.google.com) - One single low cost plan for all of your phone calls, SMS and mobile data worldwide - _U.S Citizens on Android only_.
 
 ## Languages
 - [Google Translate](http://translate.google.com) - The big daddy of translation apps with support for over 100 languages and 50 offline languages as well as photo translation - _iOS and Android_.
