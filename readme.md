@@ -89,8 +89,14 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 
 ## Gear
 Coming Soon
+
 ## Finance
-Coming Soon
+- [Revolut](https://revolut.com) - Low fee travel money card with beautiful companion apps for iOS and Android.
+- *xCurrency* - Beautiful and easy to use currency converter - _[iOS](https://itunes.apple.com/us/app/xcurrency-simple-currency/id851033695?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.tratao.xcurrency&hl=en)_.
+- [TransferWise](http://transferwise.com) - Easy to use, low fee, money transfer service supported in over 50 countries.
+- [Toshl Finance](http://toshl.com) - Fantastic finance management app with support for multiple currencies, ideal for people on the move - _iOS, Android, and Windows Phone_.
+- [The Elements Of Investing](http://goodreads.com/book/show/6743598-the-elements-of-investing) - A timeless, easy-to-read guide on life-long investment principles that can help any investor succeed.
+
 ## Security & Backup
 Coming Soon
 
