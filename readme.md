@@ -100,7 +100,7 @@ Coming Soon
 ## Security & Backup
 - [Avast Antivirus](https://avast.com) - The worlds number one free antivirus solution.
 - [1Password](https://1password.com) - The gold standard of password management apps, you should be using a password manager anyway but it's especially important on the move.
-- [Cloak](https://getgloak.com) - Having a secure VPN service is important when using public wifi networks. Cloak is a great choice in the Apple ecosystem with beautiful apps for Mac and iOS.
+- [Cloak](https://getcloak.com) - Having a secure VPN service is important when using public wifi networks. Cloak is a great choice in the Apple ecosystem with beautiful apps for Mac and iOS.
 - [Dropbox](https://dropbox.com) - The best all-rounder cross platform cloud storage service.
 - [Google Drive](https://drive.google.com) - The cheapest cloud storage service currently available.
 - [BackBlaze](https://backblaze.com) - Low cost and easy to use cloud backup for Mac and PC.
