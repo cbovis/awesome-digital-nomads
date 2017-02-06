@@ -48,6 +48,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [SeatGuru](http://seatguru.com) - Aircraft seat maps to find the best seats for your flight.
 - [SleepingInAirports](http://sleepinginairports.net) - Detailed airport guides to make the most of your time in limbo.
 - [Priority Pass](https://prioritypass.com) - Gain access to over 1000 airline lounges worldwide with membership from US$99.
+- [LoungeBuddy](https://loungebuddy.com) - Book airport lounge access from US$25 in over 200 lounges worldwide.
 
 ## Accomodation
 - [Airbnb](http://airbnb.com) - Short term rooms and private apartments at affordable rates.
