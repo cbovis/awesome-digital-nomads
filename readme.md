@@ -98,7 +98,17 @@ Coming Soon
 - [The Elements Of Investing](http://goodreads.com/book/show/6743598-the-elements-of-investing) - A timeless, easy-to-read guide on life-long investment principles that can help any investor succeed.
 
 ## Security & Backup
-Coming Soon
+- [Avast Antivirus](https://avast.com) - The worlds number one free antivirus solution.
+- [1Password](https://1password.com) - The gold standard of password management apps, you should be using a password manager anyway but it's especially important on the move.
+- [Cloak](https://getgloak.com) - Having a secure VPN service is important when using public wifi networks. Cloak is a great choice in the Apple ecosystem with beautiful apps for Mac and iOS.
+- [Dropbox](https://dropbox.com) - The best all-rounder cross platform cloud storage service.
+- [Google Drive](https://drive.google.com) - The cheapest cloud storage service currently available.
+- [BackBlaze](https://backblaze.com) - Low cost and easy to use cloud backup for Mac and PC.
+- [SpiderOak One](https://spideroak.com/solutions/spideroak-one) - Dropbox, Google Drive and Backblaze all take your data security very seriously but if you're especially concerned about privacy then check out the [Snowden endorsed](https://www.theguardian.com/technology/2014/jul/17/edward-snowden-dropbox-privacy-spideroak) SpiderOak.
+- [Authy](https://authy.com) - The best choice for cross platform two-factor authentication.
+- [Ghostery](https://ghostery.com/our-solutions/ghostery-browser-extension/) - Fantastic extension for blocking trackers in all major web browsers.
+- [Purify](https://purify-app.com) - The most efficient app for blocking ads & trackers on iOS.
+- [Find My iPhone](https://apple.com/icloud/find-my-iphone.html) - If you're in the Apple ecosystem then be sure to enable Find My iPhone on all your devices.
 
 ## Communication
 - [Facebook Messenger](http://messenger.com) - The best way to keep in touch with friends and family – chat, video, voice calls and group chat for free.
