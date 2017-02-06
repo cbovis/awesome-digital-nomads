@@ -47,6 +47,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Flightfox](http://flightfox.com) - Online travel agent that guarantees to save you money on your trip.
 - [SeatGuru](http://seatguru.com) - Aircraft seat maps to find the best seats for your flight.
 - [SleepingInAirports](http://sleepinginairports.net) - Detailed airport guides to make the most of your time in limbo.
+- [Priority Pass](https://prioritypass.com) - Gain access to over 1000 airline lounges worldwide with membership from US$99.
 
 ## Accomodation
 - [Airbnb](http://airbnb.com) - Short term rooms and private apartments at affordable rates.
