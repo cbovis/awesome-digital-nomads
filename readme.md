@@ -94,7 +94,16 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Hoffice](http://hoffice.nu/en/) - Find home offices to work from for free and meet new people in the process.
 
 ## Gear
-Coming Soon
+- [Roost Laptop Stand](https://therooststand.com) - The original portable back-saving laptop stand.
+- [Corsair Flash Voyager Mini](http://www.corsair.com/en-us/flash-voyager-mini-128gb-usb-3-0-flash-drive) - Compact and stylish USB key which packs up to 128GB of memory.
+- [Tortuga Outbreaker Backpack](http://www.tortugabackpacks.com/products/outbreaker-travel-backpack) - Pack smart with this second generation Tortuga carry on backpack.
+- [Minaal Carry-on 2.0](https://www.minaal.com/products/minaal-carry-on-bag) - A _(more stylish?)_ alternative to the Tortuga Outbreaker with similar features. Check them both out and see which you prefer.
+- [Anker Portable Chargers](https://www.anker.com/products/taxons/107/Portable%20Chargers) - USB battery packs are an essential bit of kit these days and you can't go wrong with something from Anker.
+- [Omnicharge](https://omnicharge.co) - For a portable charger that packs a bit more punch, check out the Omnicharge with its universal power outlet that will let you charge devices such as laptops in addition to your phone and tablet.
+- [Logitech MX Anywhere 2](http://www.logitech.com/en-us/product/mx-anywhere2?crid=7) - Logitech have a track record of releasing high quality peripherals and when it comes to portable mice they don't disappoint with the MX Anywhere 2.
+- [UE Boom 2](http://www.ultimateears.com/en-us/ueboom2) - If you don't mind the extra weight then portable speakers are a great way to turn any room into a home. The UE Boom series consistently comes out top in reviews thanks to great sound, rugged protection and good looks.
+- [LaCie Rugged Mobile Storage](http://www.lacie.com/as/en/professional/rugged/) - Keep your backups safe with a drive from the LaCie rugged series, trusted by professionals across the globe.
+- [Bose QC20 Noise Cancelling Earphones](https://www.bose.com/en_us/products/headphones/earphones/quietcomfort-20i-acoustic-noise-cancelling-headphones.html) - Public transport can be a noisy affair but if you have the cash to spare then the QC20s are the best around when it comes to noise cancelling headphones in a small package.
 
 ## Finance
 - [Revolut](https://revolut.com) - Low fee travel money card with beautiful companion apps for iOS and Android.
