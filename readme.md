@@ -92,6 +92,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Café Wifi](http://cafewifi.com) - Find cafes nearby that are suitable for working from and details about them such as wifi speeds, power outlet availability and seating comfort - _iOS_.
 - [Copass](http://copass.org) - Global network of over 500 coworking spaces accessed via a single monthly membership.
 - [Hoffice](http://hoffice.nu/en/) - Find home offices to work from for free and meet new people in the process.
+- [Work Hard Anywhere](http://workhardanywhere.com) - A collection of 7800+ work-optimized spaces in the palm of your hand. Mobile. Easy. Constantly updated by your fellow entrepreneurs, freelancers, and creatives - _iOS and Android_.
 
 ## Gear
 - [Roost Laptop Stand](https://therooststand.com) - The original portable back-saving laptop stand.
