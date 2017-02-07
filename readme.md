@@ -95,7 +95,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Work Hard Anywhere](http://workhardanywhere.com) - A collection of 7800+ work-optimized spaces in the palm of your hand. Mobile. Easy. Constantly updated by your fellow entrepreneurs, freelancers, and creatives - _iOS and Android_.
 
 ## Gear
-- [Roost Laptop Stand](https://therooststand.com) - The original portable back-saving laptop stand.
+- [Roost Laptop Stand](http://therooststand.com) - The original portable back-saving laptop stand.
 - [Corsair Flash Voyager Mini](http://www.corsair.com/en-us/flash-voyager-mini-128gb-usb-3-0-flash-drive) - Compact and stylish USB key which packs up to 128GB of memory.
 - [Tortuga Outbreaker Backpack](http://www.tortugabackpacks.com/products/outbreaker-travel-backpack) - Pack smart with this second generation Tortuga carry on backpack.
 - [Minaal Carry-on 2.0](https://www.minaal.com/products/minaal-carry-on-bag) - A _(more stylish?)_ alternative to the Tortuga Outbreaker with similar features. Check them both out and see which you prefer.
