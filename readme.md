@@ -84,6 +84,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [We Work Remotely](http://weworkremotely.com/) - Find your next remote gig with the companion website to 'Remote: Office Not Required'.
 - [Remote Ok](https://remoteok.io) - Large directory of remote jobs from across the web.
 - [Freelancer](http://freelancer.com) - The world's largest freelancing and crowdsourcing marketplace by number of users and projects, connecting over 22 million employers and freelancers.
+- [Toptal](https://toptal.com) - Join an exclusive network of the top freelance software developers, designers, and finance experts in the world. Top companies rely on Toptal freelancers for their most important projects.
 
 ## Workspaces
 - [Workfrom](http://workfrom.co) - The most comprehensive directory of public and private workspaces across the globe.
