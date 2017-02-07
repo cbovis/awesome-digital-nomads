@@ -37,6 +37,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Unsettled](http://beunsettled.co) - 30-day coworking retreats to take your work, life, and adventures beyond traditional borders.
 - [WiFi Tribe](http://wifitribe.co) - Coworking retreat which allows you to hop on or off at any point, stay a month, or a year to explore a whole continent with like-minded individuals, one country at a time.
 - [Wifly Nomads](https://wiflynomads.com) - A brand new retreat launching in September 2017 designed to help fledgling nomads build startups, find remote work opportunities and learn nomadic lifestyle fundamentals.
+- [Nomad Cruise](http://nomadcruise.com) - Join over 150 other remote workers, entrepreneurs and digital nomads on a 15-day coworking cruise across the atlantic.
 
 ## Flights
 - [Kiwi.com](http://kiwi.com) - Advanced flexible search tool for finding cheap flights.
