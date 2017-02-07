@@ -28,6 +28,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Wikivoyage](http://wikivoyage.org) - Fantastic free travel guides that anyone can edit.
 - [Triposo](http://triposo.com/gettheapp/) - Smart offline travel guides for your phone and tablet - _iOS and Android_.
 - [Foursquare](http://foursquare.com/download) - Find the best places to eat, drink, shop, or visit in any city in the world - _iOS, Android, and Windows Phone_.
+- [HappyCow](https://www.happycow.net) - Find great vegetarian and vegan restaurants near you, Foursquare for animal lovers :cow: - _iOS and Android_.
 
 ## Retreats
 - [Destination: Dev](http://destinationdev.com) - Program that brings together 10 like-minded individuals for eight intense weeks of software development education and cultural immersion.
