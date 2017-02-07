@@ -76,6 +76,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Facebook Groups](http://groups.fb.com) - Find groups for buying/selling, hiking, common interests, local advice and more.
 - [Nomad List Radar](http://nomadlist.com/radar) - Keep track of your nomadic friends whereabouts and meet up for :beers: when your paths cross.
 - [Withlocals](http://withlocals.com) - Find paid tours and experiences with verified locals in over 20 countries.
+- [Party with a Local](http://partywithalocal.com) - Find locals and travelers in your area that are down to party - _iOS and Android_.
 
 ## Remote Jobs
 - [Remote: Office Not Required](http://37signals.com/remote) - Great book by 37signals, which shows both employers and employees how they can work together, remotely, from any desk, in any space, in any place, anytime, anywhere.
