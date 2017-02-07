@@ -28,6 +28,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Atlas Obscura](http://atlasobscura.com) - The definitive guide to the world's wondrous and curious places.
 - [Wikivoyage](http://wikivoyage.org) - Fantastic free travel guides that anyone can edit.
 - [Triposo](http://triposo.com/gettheapp/) - Smart offline travel guides for your phone and tablet - _iOS and Android_.
+- [Time Out](http://www.timeout.com) - Worldwide guide to art and entertainment, food and drink, film, travel and more.
 
 ## Retreats
 - [Destination: Dev](http://destinationdev.com) - Program that brings together 10 like-minded individuals for eight intense weeks of software development education and cultural immersion.
