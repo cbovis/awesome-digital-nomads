@@ -139,6 +139,7 @@ Coming Soon
 
 ## Destination Guides
 - [Chiang Mai, Thailand](http://www.johnnyfd.com/2015/07/johnnys-guide-to-chiang-mai-thailand.html)
+- [Hoi An, Vietnam](http://www.neverendingvoyage.com/digital-nomad-hoi-an-guide/)
 
 ## License
 
