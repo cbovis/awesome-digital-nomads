@@ -18,6 +18,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Security & Backup](#security--backup)
 - [Communication](#communication)
 - [Languages](#languages)
+- [Food & Drink](#food--drink)
 - [Miscellaneous](#miscellaneous)
 - [Destination Guides](#destination-guides)
 
@@ -27,8 +28,6 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Atlas Obscura](http://atlasobscura.com) - The definitive guide to the world's wondrous and curious places.
 - [Wikivoyage](http://wikivoyage.org) - Fantastic free travel guides that anyone can edit.
 - [Triposo](http://triposo.com/gettheapp/) - Smart offline travel guides for your phone and tablet - _iOS and Android_.
-- [Foursquare](http://foursquare.com/download) - Find the best places to eat, drink, shop, or visit in any city in the world - _iOS, Android, and Windows Phone_.
-- [HappyCow](https://www.happycow.net) - Find great vegetarian and vegan restaurants near you, Foursquare for animal lovers :cow: - _iOS and Android_.
 
 ## Retreats
 - [Destination: Dev](http://destinationdev.com) - Program that brings together 10 like-minded individuals for eight intense weeks of software development education and cultural immersion.
@@ -145,6 +144,10 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Fluent In 3 Months](https://www.goodreads.com/book/show/18085519-fluent-in-3-months) - If you've always struggled with learning foreign languages then be sure to check out this great book by Benny Lewis.
 - [Duolingo](http://duolingo.com) - The original and arguably most enjoyable language learning app with support for over 20 languages - _iOS, Android and Windows Phone_.
 - [Memrise](http://memrise.com) - Not quite as fun as Duolingo but still a solid contender on the language learning scene with support for over 200 languages - _iOS and Android_.
+
+## Food & Drink
+- [Foursquare](http://foursquare.com/download) - Find the best places to eat, drink, shop, or visit in any city in the world - _iOS, Android, and Windows Phone_.
+- [HappyCow](https://www.happycow.net) - Find great vegetarian and vegan restaurants near you, Foursquare for animal lovers :cow: - _iOS and Android_.
 
 ## Miscellaneous
 Coming Soon
