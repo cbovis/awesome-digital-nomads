@@ -148,6 +148,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 ## Food & Drink
 - [Foursquare](http://foursquare.com/download) - Find the best places to eat, drink, shop, or visit in any city in the world - _iOS, Android, and Windows Phone_.
 - [HappyCow](https://www.happycow.net) - Find great vegetarian and vegan restaurants near you, Foursquare for animal lovers :cow: - _iOS and Android_.
+- [Don't Eat Alone](http://www.donteatalone.co) - Make informal meal plans with strangers & friends – connect with people over a meal.
 
 ## Miscellaneous
 Coming Soon
