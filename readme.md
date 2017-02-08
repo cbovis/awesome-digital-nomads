@@ -152,7 +152,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Don't Eat Alone](http://www.donteatalone.co) - Make informal meal plans with strangers & friends – connect with people over a meal.
 
 ## Miscellaneous
-Coming Soon
+- [Noizio](http://noiz.io) - Ambient sound mixer to help you focus in busy places. Parisian Cafe during a thunderstorm? Check! - _iOS and Android_.
 
 ## Destination Guides
 - [Ubud, Bali](http://www.neverendingvoyage.com/digital-nomad-guide-living-in-ubud/)
