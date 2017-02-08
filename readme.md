@@ -156,6 +156,7 @@ Coming Soon
 
 ## Destination Guides
 - [Ubud, Bali](http://www.neverendingvoyage.com/digital-nomad-guide-living-in-ubud/)
+- [Medellín, Colombia](http://www.webworktravel.com/medellin-digital-nomad/#wheretowork)
 - [Galapagos Islands, Ecuador](http://www.webworktravel.com/digital-nomad-guide-galapagos-islands/)
 - [Chiang Mai, Thailand](http://www.johnnyfd.com/2015/07/johnnys-guide-to-chiang-mai-thailand.html)
 - [Hoi An, Vietnam](http://www.neverendingvoyage.com/digital-nomad-hoi-an-guide/)
