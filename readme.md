@@ -113,6 +113,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Toshl Finance](http://toshl.com) - Fantastic finance management app with support for multiple currencies, ideal for people on the move - _iOS, Android, and Windows Phone_.
 - [The Elements Of Investing](http://goodreads.com/book/show/6743598-the-elements-of-investing) - A timeless, easy-to-read guide on life-long investment principles that can help any investor succeed.
 - [Quidco](http://quidco.com) - The UKs largest cashback website, check here before booking flights and accomodation to see if you can get cashback on your purchases.
+- [Neomy](https://neomy.io) - Set-it-and-forget-it exchange rate tracking, straight to your inbox.
 
 ## Security & Backup
 - [Avast Antivirus](https://avast.com) - The worlds number one free antivirus solution.
