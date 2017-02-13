@@ -51,7 +51,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [SleepingInAirports](http://sleepinginairports.net) - Detailed airport guides to make the most of your time in limbo.
 - [Priority Pass](https://prioritypass.com) - Gain access to over 1000 airline lounges worldwide with membership from US$99.
 - [LoungeBuddy](https://loungebuddy.com) - Book airport lounge access from US$25 in over 200 lounges worldwide.
-- [Hopper] (https://www.hopper.com/) - Price prediction app that helps you choose the cheapest time to book your flight. *- iOS and Android.*
+- [Hopper] (https://www.hopper.com/) - Price prediction app that helps you choose the cheapest time to book your flight *- iOS and Android.*
 
 ## Accomodation
 - [Airbnb](http://airbnb.com) - Short term rooms and private apartments at affordable rates.
