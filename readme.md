@@ -52,6 +52,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [SleepingInAirports](http://sleepinginairports.net) - Detailed airport guides to make the most of your time in limbo.
 - [Priority Pass](https://prioritypass.com) - Gain access to over 1000 airline lounges worldwide with membership from US$99.
 - [LoungeBuddy](https://loungebuddy.com) - Book airport lounge access from US$25 in over 200 lounges worldwide.
+- [Hopper] (https://www.hopper.com/) - Price prediction app that helps you choose the cheapest time to book your flight *- iOS and Android.*
 
 ## Accomodation
 - [Airbnb](http://airbnb.com) - Short term rooms and private apartments at affordable rates.
@@ -114,6 +115,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Toshl Finance](http://toshl.com) - Fantastic finance management app with support for multiple currencies, ideal for people on the move - _iOS, Android, and Windows Phone_.
 - [The Elements Of Investing](http://goodreads.com/book/show/6743598-the-elements-of-investing) - A timeless, easy-to-read guide on life-long investment principles that can help any investor succeed.
 - [Quidco](http://quidco.com) - The UKs largest cashback website, check here before booking flights and accomodation to see if you can get cashback on your purchases.
+- [Neomy](https://neomy.io) - Set-it-and-forget-it exchange rate tracking, straight to your inbox.
 
 ## Security & Backup
 - [Avast Antivirus](https://avast.com) - The worlds number one free antivirus solution.
