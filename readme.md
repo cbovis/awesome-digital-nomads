@@ -9,7 +9,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Travel Planning](#travel-planning)
 - [Retreats](#retreats)
 - [Flights](#flights)
-- [Accomodation](#accomodation)
+- [Accommodation](#accommodation)
 - [Getting Around](#getting-around)
 - [Communities & Social](#communities--social)
 - [Remote Jobs](#remote-jobs)
@@ -57,7 +57,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [LoungeBuddy](https://loungebuddy.com) - Book airport lounge access from US$25 in over 200 lounges worldwide.
 - [Hopper] (https://www.hopper.com/) - Price prediction app that helps you choose the cheapest time to book your flight *- iOS and Android.*
 
-## Accomodation
+## Accommodation
 - [Airbnb](http://airbnb.com) - Short term rooms and private apartments at affordable rates.
 - [Kayak](http://kayak.com/hotels) - Compare hotel prices across leading booking websites including Expedia, Booking.com, Agoda, and Hotels.com.
 - [Hostelworld](http://hostelworld.com) - Budget accomodation for nomads that prefer a more social environment or need to keep costs down.
