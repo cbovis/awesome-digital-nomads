@@ -19,6 +19,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Communication](#communication)
 - [Languages](#languages)
 - [Food & Drink](#food--drink)
+- [Team Collaboration](#team-collaboration)
 - [Miscellaneous](#miscellaneous)
 - [Destination Guides](#destination-guides)
 
@@ -154,6 +155,9 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Foursquare](http://foursquare.com/download) - Find the best places to eat, drink, shop, or visit in any city in the world - _iOS, Android, and Windows Phone_.
 - [HappyCow](https://www.happycow.net) - Find great vegetarian and vegan restaurants near you, Foursquare for animal lovers :cow: - _iOS and Android_.
 - [Don't Eat Alone](http://www.donteatalone.co) - Make informal meal plans with strangers & friends – connect with people over a meal.
+
+## Team Collaboration
+- [Standup Bot](https://standupbot.com) - Run your standup meetings remotely via Slack and have your meeting notes automatically organised for you.
 
 ## Miscellaneous
 - [Noizio](http://noiz.io) - Ambient sound mixer to help you focus in busy places. Parisian Cafe during a thunderstorm? Check! - _iOS and Android_.
