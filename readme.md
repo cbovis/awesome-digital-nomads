@@ -163,6 +163,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [I Done This](https://home.idonethis.com) - More than 160,000 people use I Done This’s easy daily check-ins and powerful progress reports to run more effective and productive teams.
 - [Timezone.io](https://timezone.io) - Keep track of 'when' and 'where' your remote team members are. Easily organise meetings at a time suitable for everyone involved.
 - [Dropbox Paper](https://www.dropbox.com/paper) - Collaborate on documents and ideas with your remote colleagues using this flexible workspace.
+- [Trello](https://trello.com) - Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible and rewarding way.
 
 ## Miscellaneous
 - [Noizio](http://noiz.io) - Ambient sound mixer to help you focus in busy places. Parisian Cafe during a thunderstorm? Check! - _iOS and Android_.
