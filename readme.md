@@ -110,6 +110,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [UE Boom 2](http://www.ultimateears.com/en-us/ueboom2) - If you don't mind the extra weight then portable speakers are a great way to turn any room into a home. The UE Boom series consistently comes out top in reviews thanks to great sound, rugged protection and good looks.
 - [LaCie Rugged Mobile Storage](http://www.lacie.com/as/en/professional/rugged/) - Keep your backups safe with a drive from the LaCie rugged series, trusted by professionals across the globe.
 - [Bose QC20 Noise Cancelling Earphones](https://www.bose.com/en_us/products/headphones/earphones/quietcomfort-20i-acoustic-noise-cancelling-headphones.html) - Public transport can be a noisy affair but if you have the cash to spare then the QC20s are the best around when it comes to noise cancelling headphones in a small package.
+- [Google Chromecast](https://www.google.com/chromecast/tv) - Chromecast is a media streaming device that plugs into the HDMI port on your TV. Simply use a compatible mobile, tablet or PC device and the TV in your accommodation to watch your favourite TV shows, films, music, sport, games and more on the big screen
 
 ## Finance
 - [Revolut](https://revolut.com) - Low fee travel money card with beautiful companion apps for iOS and Android.
