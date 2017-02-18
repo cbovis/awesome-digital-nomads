@@ -60,8 +60,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 ## Accommodation
 - [Airbnb](http://airbnb.com) - Short term rooms and private apartments at affordable rates.
 - [Kayak](http://kayak.com/hotels) - Compare hotel prices across leading booking websites including Expedia, Booking.com, Agoda, and Hotels.com.
-- [Hostelworld](http://hostelworld.com) - Budget accomodation for nomads that prefer a more social environment or need to keep costs down.
-- [Couchsurfing](http://couchsurfing.com) - The ultimate budget accomodation, meet new people and join in local experiences in exchange for a free bed or couch.
+- [Hostelworld](http://hostelworld.com) - Budget accommodation for nomads that prefer a more social environment or need to keep costs down.
+- [Couchsurfing](http://couchsurfing.com) - The ultimate budget accommodation, meet new people and join in local experiences in exchange for a free bed or couch.
 - [Colive.co](http://colive.co) - Find and organise coliving arrangements with other nomads.
 - [Coliving](https://coliving.com) - Find coliving spaces around the world to live with like-minded individuals.
 
@@ -118,7 +118,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [TransferWise](http://transferwise.com) - Easy to use, low fee, money transfer service supported in over 50 countries.
 - [Toshl Finance](http://toshl.com) - Fantastic finance management app with support for multiple currencies, ideal for people on the move - _iOS, Android, and Windows Phone_.
 - [The Elements Of Investing](http://goodreads.com/book/show/6743598-the-elements-of-investing) - A timeless, easy-to-read guide on life-long investment principles that can help any investor succeed.
-- [Quidco](http://quidco.com) - The UKs largest cashback website, check here before booking flights and accomodation to see if you can get cashback on your purchases.
+- [Quidco](http://quidco.com) - The UKs largest cashback website, check here before booking flights and accommodation to see if you can get cashback on your purchases.
 - [Neomy](https://neomy.io) - Set-it-and-forget-it exchange rate tracking, straight to your inbox.
 
 ## Security & Backup
