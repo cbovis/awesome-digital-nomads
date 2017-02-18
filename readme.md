@@ -111,6 +111,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [LaCie Rugged Mobile Storage](http://www.lacie.com/as/en/professional/rugged/) - Keep your backups safe with a drive from the LaCie rugged series, trusted by professionals across the globe.
 - [Bose QC20 Noise Cancelling Earphones](https://www.bose.com/en_us/products/headphones/earphones/quietcomfort-20i-acoustic-noise-cancelling-headphones.html) - Public transport can be a noisy affair but if you have the cash to spare then the QC20s are the best around when it comes to noise cancelling headphones in a small package.
 - [Google Chromecast](https://www.google.com/chromecast/tv) - Chromecast is a media streaming device that plugs into the HDMI port on your TV. Simply use a compatible mobile, tablet or PC device and the TV in your accommodation to watch your favourite TV shows, films, music, sport, games and more on the big screen
+- [Kindle Paperwhite](https://www.amazon.com/Kindle-Paperwhite-Ereader/dp/B00AWH595M) - Highly portable, easy on the eyes, readable in sunlight, instant access to the worlds largest bookstore and capable of holding over 1,000 books – the Kindle Paperwhite provides a great combination of features and affordability.
 
 ## Finance
 - [Revolut](https://revolut.com) - Low fee travel money card with beautiful companion apps for iOS and Android.
