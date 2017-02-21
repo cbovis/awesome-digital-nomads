@@ -167,6 +167,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Timezone.io](https://timezone.io) - Keep track of 'when' and 'where' your remote team members are. Easily organise meetings at a time suitable for everyone involved.
 - [Dropbox Paper](https://www.dropbox.com/paper) - Collaborate on documents and ideas with your remote colleagues using this flexible workspace.
 - [Trello](https://trello.com) - Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible and rewarding way.
+- [Basecamp](https://basecamp.com) - Basecamp organizes your projects, internal communications, and client work in one place so you have a central source of truth.
 
 ## Miscellaneous
 - [Noizio](http://noiz.io) - Ambient sound mixer to help you focus in busy places. Parisian Cafe during a thunderstorm? Check! - _iOS and Android_.
