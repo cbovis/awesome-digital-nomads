@@ -56,6 +56,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Priority Pass](https://prioritypass.com) - Gain access to over 1000 airline lounges worldwide with membership from US$99.
 - [LoungeBuddy](https://loungebuddy.com) - Book airport lounge access from US$25 in over 200 lounges worldwide.
 - [Hopper] (https://www.hopper.com/) - Price prediction app that helps you choose the cheapest time to book your flight *- iOS and Android.*
+- [GTFO - Get The Flight Out](https://itunes.apple.com/us/app/gtfo-get-the-flight-out/id895474816) - In a hurry? GTFO lists the cheapest flights out of your home airport within the next 24 hours _iOS_.
 
 ## Accommodation
 - [Airbnb](http://airbnb.com) - Short term rooms and private apartments at affordable rates.
