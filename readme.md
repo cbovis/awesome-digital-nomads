@@ -117,6 +117,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Kindle Paperwhite](https://www.amazon.com/Kindle-Paperwhite-Ereader/dp/B00AWH595M) - Highly portable, easy on the eyes, readable in sunlight, instant access to the worlds largest bookstore and capable of holding over 1,000 books – the Kindle Paperwhite provides a great combination of features and affordability.
 - [Mountie](https://tenonedesign.com/mountie.php) - Clip your smartphone or tablet onto your laptop for a portable dual monitor set up. Works well with
 [Duet Display](https://duetdisplay.com).
+- [Gerber Shard](http://www.gerbergear.com/Activity/Everyday/Tools/Shard-Keychain-Tool_22-01769) - Want to take a multi-tool with you but can't get traditional ones past airport security without checked baggage? The Gerber Shard is a great solution to this predicament, packing six useful functions into an airline friendly form-factor.
 
 ## Finance
 - [Revolut](https://revolut.com) - Low fee travel money card with beautiful companion apps for iOS and Android.
