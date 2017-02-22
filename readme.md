@@ -33,6 +33,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [The Basetrip](https://www.thebasetrip.com) - Essential information for your next destination and how it compares to your home country.
 - [DESTIGOGO](https://destigogo.com) - Planning a short trip away from work on a budget? Use this simple tool to discover destinations that fit your timeframe and budget.
 - [VisaHQ](https://visahq.com) - Easily find visa requirements for most countries around the world.
+- [Numbeo](https://numbeo.com) - The world’s largest database of user contributed data about cities and countries. Find information such as cost of living, housing indicators, health care, traffic, crime and pollution for your next destination.
 
 ## Retreats
 - [Destination: Dev](http://destinationdev.com) - Program that brings together 10 like-minded individuals for eight intense weeks of software development education and cultural immersion.
