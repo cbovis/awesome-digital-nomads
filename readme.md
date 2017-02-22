@@ -77,6 +77,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Wikivoyage](http://wikivoyage.org) - When Rome2rio or Moovit fail to provide directions you may just find the information you need on Wikivoyage. Destination guides here typically have 'get in', 'get around' and 'get out' sections, useful in some of the more rural areas.
 - [Maps.me](http://maps.me) - Offline maps and POIs to get you around on foot when you don't have an internet connection - _iOS, Android, and Kindle Fire_.
 - [Waze](http://waze.com) - The world's largest community-based traffic and navigation app. Perfect for those brave enough to drive abroad - _iOS and Android_.
+- [The Man in Seat Sixy-One](http://seat61.com) - The ultimate guide to train travel around the world.
 
 ## Communities & Social
 - [Nomad List Chat](http://nomadlist.com/chat) - Connect with other nomads to get advice or organise meetups.
