@@ -9,7 +9,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Travel Planning](#travel-planning)
 - [Retreats](#retreats)
 - [Flights](#flights)
-- [Accomodation](#accomodation)
+- [Accommodation](#accommodation)
 - [Getting Around](#getting-around)
 - [Communities & Social](#communities--social)
 - [Remote Jobs](#remote-jobs)
@@ -19,6 +19,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Communication](#communication)
 - [Languages](#languages)
 - [Food & Drink](#food--drink)
+- [Team Collaboration](#team-collaboration)
 - [Miscellaneous](#miscellaneous)
 - [Destination Guides](#destination-guides)
 
@@ -29,7 +30,10 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Wikivoyage](http://wikivoyage.org) - Fantastic free travel guides that anyone can edit.
 - [Triposo](http://triposo.com/gettheapp/) - Smart offline travel guides for your phone and tablet - _iOS and Android_.
 - [Time Out](http://www.timeout.com) - Worldwide guide to art and entertainment, food and drink, film, travel and more.
-- [Wikitravel](http://wikitravel.org/) - The broadest, if not deepest, travel wiki. Handy if you’re going to the ends of the earth.
+- [The Basetrip](https://www.thebasetrip.com) - Essential information for your next destination and how it compares to your home country.
+- [DESTIGOGO](https://destigogo.com) - Planning a short trip away from work on a budget? Use this simple tool to discover destinations that fit your timeframe and budget.
+- [VisaHQ](https://visahq.com) - Easily find visa requirements for most countries around the world.
+- [Numbeo](https://numbeo.com) - The world’s largest database of user contributed data about cities and countries. Find information such as cost of living, housing indicators, health care, traffic, crime and pollution for your next destination.
 
 ## Retreats
 - [Destination: Dev](http://destinationdev.com) - Program that brings together 10 like-minded individuals for eight intense weeks of software development education and cultural immersion.
@@ -53,12 +57,13 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Priority Pass](https://prioritypass.com) - Gain access to over 1000 airline lounges worldwide with membership from US$99.
 - [LoungeBuddy](https://loungebuddy.com) - Book airport lounge access from US$25 in over 200 lounges worldwide.
 - [Hopper] (https://www.hopper.com/) - Price prediction app that helps you choose the cheapest time to book your flight *- iOS and Android.*
+- [GTFO - Get The Flight Out](https://itunes.apple.com/us/app/gtfo-get-the-flight-out/id895474816) - In a hurry? GTFO lists the cheapest flights out of your home airport within the next 24 hours _iOS_.
 
-## Accomodation
+## Accommodation
 - [Airbnb](http://airbnb.com) - Short term rooms and private apartments at affordable rates.
 - [Kayak](http://kayak.com/hotels) - Compare hotel prices across leading booking websites including Expedia, Booking.com, Agoda, and Hotels.com.
-- [Hostelworld](http://hostelworld.com) - Budget accomodation for nomads that prefer a more social environment or need to keep costs down.
-- [Couchsurfing](http://couchsurfing.com) - The ultimate budget accomodation, meet new people and join in local experiences in exchange for a free bed or couch.
+- [Hostelworld](http://hostelworld.com) - Budget accommodation for nomads that prefer a more social environment or need to keep costs down.
+- [Couchsurfing](http://couchsurfing.com) - The ultimate budget accommodation, meet new people and join in local experiences in exchange for a free bed or couch.
 - [Colive.co](http://colive.co) - Find and organise coliving arrangements with other nomads.
 - [Coliving](https://coliving.com) - Find coliving spaces around the world to live with like-minded individuals.
 
@@ -67,10 +72,12 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Citymapper](http://citymapper.com) - Arguably the best transit app available but limited to 40 cities. Use it when you can and fall back to Moovit if necessary - _iOS and Android_.
 - [Rome2rio](http://rome2rio.com) - Global trip planner which gets you from A to B using flights, ferries, trains and buses. Great for when you're moving between cities - _iOS and Android_.
 - [Uber](http://uber.com) - The big daddy of ride sharing apps, it goes without saying this should be on your phone. Available in over 500 cities worldwide - _iOS, Android, and Windows Phone_.
+- [Lyft](https://www.lyft.com) - The largest competitor to Uber in the United States for people who want an alternative - _iOS and Android_.
 - [Grab](http://grab.com) - Uber may be your go to taxi app for most of the world but, in SE Asia, Grab is king - _iOS and Android_.
 - [Wikivoyage](http://wikivoyage.org) - When Rome2rio or Moovit fail to provide directions you may just find the information you need on Wikivoyage. Destination guides here typically have 'get in', 'get around' and 'get out' sections, useful in some of the more rural areas.
 - [Maps.me](http://maps.me) - Offline maps and POIs to get you around on foot when you don't have an internet connection - _iOS, Android, and Kindle Fire_.
 - [Waze](http://waze.com) - The world's largest community-based traffic and navigation app. Perfect for those brave enough to drive abroad - _iOS and Android_.
+- [The Man in Seat Sixy-One](http://seat61.com) - The ultimate guide to train travel around the world.
 
 ## Communities & Social
 - [Nomad List Chat](http://nomadlist.com/chat) - Connect with other nomads to get advice or organise meetups.
@@ -107,6 +114,11 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [UE Boom 2](http://www.ultimateears.com/en-us/ueboom2) - If you don't mind the extra weight then portable speakers are a great way to turn any room into a home. The UE Boom series consistently comes out top in reviews thanks to great sound, rugged protection and good looks.
 - [LaCie Rugged Mobile Storage](http://www.lacie.com/as/en/professional/rugged/) - Keep your backups safe with a drive from the LaCie rugged series, trusted by professionals across the globe.
 - [Bose QC20 Noise Cancelling Earphones](https://www.bose.com/en_us/products/headphones/earphones/quietcomfort-20i-acoustic-noise-cancelling-headphones.html) - Public transport can be a noisy affair but if you have the cash to spare then the QC20s are the best around when it comes to noise cancelling headphones in a small package.
+- [Google Chromecast](https://www.google.com/chromecast/tv) - Chromecast is a media streaming device that plugs into the HDMI port on your TV. Simply use a compatible mobile, tablet or PC device and the TV in your accommodation to watch your favourite TV shows, films, music, sport, games and more on the big screen
+- [Kindle Paperwhite](https://www.amazon.com/Kindle-Paperwhite-Ereader/dp/B00AWH595M) - Highly portable, easy on the eyes, readable in sunlight, instant access to the worlds largest bookstore and capable of holding over 1,000 books – the Kindle Paperwhite provides a great combination of features and affordability.
+- [Mountie](https://tenonedesign.com/mountie.php) - Clip your smartphone or tablet onto your laptop for a portable dual monitor set up. Works well with
+[Duet Display](https://duetdisplay.com).
+- [Gerber Shard](http://www.gerbergear.com/Activity/Everyday/Tools/Shard-Keychain-Tool_22-01769) - Want to take a multi-tool with you but can't get traditional ones past airport security without checked baggage? The Gerber Shard is a great solution to this predicament, packing six useful functions into an airline friendly form-factor.
 
 ## Finance
 - [Revolut](https://revolut.com) - Low fee travel money card with beautiful companion apps for iOS and Android.
@@ -114,8 +126,9 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [TransferWise](http://transferwise.com) - Easy to use, low fee, money transfer service supported in over 50 countries.
 - [Toshl Finance](http://toshl.com) - Fantastic finance management app with support for multiple currencies, ideal for people on the move - _iOS, Android, and Windows Phone_.
 - [The Elements Of Investing](http://goodreads.com/book/show/6743598-the-elements-of-investing) - A timeless, easy-to-read guide on life-long investment principles that can help any investor succeed.
-- [Quidco](http://quidco.com) - The UKs largest cashback website, check here before booking flights and accomodation to see if you can get cashback on your purchases.
+- [Quidco](http://quidco.com) - The UKs largest cashback website, check here before booking flights and accommodation to see if you can get cashback on your purchases.
 - [Neomy](https://neomy.io) - Set-it-and-forget-it exchange rate tracking, straight to your inbox.
+- [Moneytis](https://moneytis.com) - Compare foreign money transfer services to make sure you get the best deal.
 
 ## Security & Backup
 - [Avast Antivirus](https://avast.com) - The worlds number one free antivirus solution.
@@ -154,8 +167,18 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [HappyCow](https://www.happycow.net) - Find great vegetarian and vegan restaurants near you, Foursquare for animal lovers :cow: - _iOS and Android_.
 - [Don't Eat Alone](http://www.donteatalone.co) - Make informal meal plans with strangers & friends – connect with people over a meal.
 
+## Team Collaboration
+- [Standup Bot](https://standupbot.com) - Run your standup meetings remotely via Slack and have your meeting notes automatically organised for you.
+- [I Done This](https://home.idonethis.com) - More than 160,000 people use I Done This’s easy daily check-ins and powerful progress reports to run more effective and productive teams.
+- [Timezone.io](https://timezone.io) - Keep track of 'when' and 'where' your remote team members are. Easily organise meetings at a time suitable for everyone involved.
+- [Dropbox Paper](https://www.dropbox.com/paper) - Collaborate on documents and ideas with your remote colleagues using this flexible workspace.
+- [Trello](https://trello.com) - Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible and rewarding way.
+- [Basecamp](https://basecamp.com) - Basecamp organizes your projects, internal communications, and client work in one place so you have a central source of truth.
+
 ## Miscellaneous
 - [Noizio](http://noiz.io) - Ambient sound mixer to help you focus in busy places. Parisian Cafe during a thunderstorm? Check! - _iOS and Android_.
+- [Duet Display](https://www.duetdisplay.com) - Use your iPhone or iPad as an extra display for your Mac or PC - _iOS, macOS and Windows_.
+- [One Way Ticket](http://digitalnomaddocumentary.com) - A documentary looking at the rise of the digital nomad around the world. Through interviews with advocates, academics and authorities, this film examines issues surrounding the supposed "dream life".
 
 ## Destination Guides
 - [Ubud, Bali](http://www.neverendingvoyage.com/digital-nomad-guide-living-in-ubud/)
