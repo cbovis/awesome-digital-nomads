@@ -130,6 +130,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Quidco](http://quidco.com) - The UKs largest cashback website, check here before booking flights and accommodation to see if you can get cashback on your purchases.
 - [Neomy](https://neomy.io) - Set-it-and-forget-it exchange rate tracking, straight to your inbox.
 - [Moneytis](https://moneytis.com) - Compare foreign money transfer services to make sure you get the best deal.
+- [Monzo](https://monzo.com) - Smartphone-friendly UK bank with zero fees abroad.
 
 ## Security & Backup
 - [Avast Antivirus](https://avast.com) - The worlds number one free antivirus solution.
