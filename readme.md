@@ -187,6 +187,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Ubud, Bali](http://www.neverendingvoyage.com/digital-nomad-guide-living-in-ubud/)
 - [Medellín, Colombia](http://www.webworktravel.com/medellin-digital-nomad/#wheretowork)
 - [Galápagos Islands, Ecuador](http://www.webworktravel.com/digital-nomad-guide-galapagos-islands/)
+- [Valdivia, Chile](https://valdiviaguide.com/)
 - [Tarifa, Spain](http://www.webworktravel.com/tarifa-digital-nomad-guide/)
 - [Chiang Mai, Thailand](http://www.johnnyfd.com/2015/07/johnnys-guide-to-chiang-mai-thailand.html)
 - [Hoi An, Vietnam](http://www.neverendingvoyage.com/digital-nomad-hoi-an-guide/)
