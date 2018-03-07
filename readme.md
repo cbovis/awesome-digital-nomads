@@ -132,6 +132,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Neomy](https://neomy.io) - Set-it-and-forget-it exchange rate tracking, straight to your inbox.
 - [Moneytis](https://moneytis.com) - Compare foreign money transfer services to make sure you get the best deal.
 - [Monzo](https://monzo.com) - Smartphone-friendly UK bank with zero fees abroad.
+- [Multi-currency budgeting with Google Sheets](https://medium.com/@richdecibels/multi-currency-budgeting-for-digital-nomads-68da7687e3d1) - use some clever Google Sheets formulas to track predicted income and expenses in any currency.
 
 ## Security & Backup
 - [Avast Antivirus](https://avast.com) - The worlds number one free antivirus solution.
