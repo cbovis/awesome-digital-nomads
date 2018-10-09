@@ -22,6 +22,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Team Collaboration](#team-collaboration)
 - [Miscellaneous](#miscellaneous)
 - [Destination Guides](#destination-guides)
+- [VISA Information](#visa-information)
 
 ## Travel Planning
 - [Lonely Planet](http://lonelyplanet.com) - The most recognised travel guides for over fourty years, start here for inspiration.
@@ -192,6 +193,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Chiang Mai, Thailand](http://www.johnnyfd.com/2015/07/johnnys-guide-to-chiang-mai-thailand.html)
 - [Hoi An, Vietnam](http://www.neverendingvoyage.com/digital-nomad-hoi-an-guide/)
 
+## Visa Information
+- [Brazil - Itamaraty](http://www.portalconsular.itamaraty.gov.br/tabela-de-vistos-para-cidadaos-brasileiros) - Information about VISAs for Brazilians.
 
 ## License
 
