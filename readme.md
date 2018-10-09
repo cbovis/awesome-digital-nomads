@@ -7,6 +7,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 
 ## Contents
 - [Travel Planning](#travel-planning)
+- [Travel Insurance](#travel-insurance)
 - [Retreats](#retreats)
 - [Flights](#flights)
 - [Accommodation](#accommodation)
@@ -35,6 +36,9 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [VisaHQ](https://visahq.com) - Easily find visa requirements for most countries around the world.
 - [Numbeo](https://numbeo.com) - The world’s largest database of user contributed data about cities and countries. Find information such as cost of living, housing indicators, health care, traffic, crime and pollution for your next destination.
 - [On The Grid](http://www.onthegrid.city/) - Neighborhood guides written by local creatives. Great for design-oriented travelers.
+
+## Travel Insurance
+- [World Nomads](https://www.worldnomads.com/) - Travel insurance for short and long periods, with possiblity to cover the whole world.
 
 ## Retreats
 - [Destination: Dev](http://destinationdev.com) - Program that brings together 10 like-minded individuals for eight intense weeks of software development education and cultural immersion.
