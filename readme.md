@@ -35,6 +35,10 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [VisaHQ](https://visahq.com) - Easily find visa requirements for most countries around the world.
 - [Numbeo](https://numbeo.com) - The world’s largest database of user contributed data about cities and countries. Find information such as cost of living, housing indicators, health care, traffic, crime and pollution for your next destination.
 - [On The Grid](http://www.onthegrid.city/) - Neighborhood guides written by local creatives. Great for design-oriented travelers.
+- [Reddit Travel](https://www.reddit.com/r/travel/) - Reddit board for travellers.
+- [Teleport](https://teleport.org/) - Compare cities on quality of life, cost of living, salaries and more.
+- [OpenSignal](https://opensignal.com/) - Get better signal, find free Wifi and see which operator is best in your location.
+- [Quanto Custa Viajar](https://quantocustaviajar.com/) - Information about how much it costs to travel for a specific place. In PT-BR.
 
 ## Retreats
 - [Destination: Dev](http://destinationdev.com) - Program that brings together 10 like-minded individuals for eight intense weeks of software development education and cultural immersion.
