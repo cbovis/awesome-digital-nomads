@@ -7,6 +7,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 
 ## Contents
 - [Travel Planning](#travel-planning)
+- [Insurance](#insurance)
 - [Retreats](#retreats)
 - [Flights](#flights)
 - [Accommodation](#accommodation)
@@ -35,6 +36,9 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [VisaHQ](https://visahq.com) - Easily find visa requirements for most countries around the world.
 - [Numbeo](https://numbeo.com) - The world’s largest database of user contributed data about cities and countries. Find information such as cost of living, housing indicators, health care, traffic, crime and pollution for your next destination.
 - [On The Grid](http://www.onthegrid.city/) - Neighborhood guides written by local creatives. Great for design-oriented travelers.
+
+## Insurance
+- [World Nomads](https://www.worldnomads.com/) - Travel insurance for short and long periods, with possiblity to cover the whole world.
 
 ## Retreats
 - [Destination: Dev](http://destinationdev.com) - Program that brings together 10 like-minded individuals for eight intense weeks of software development education and cultural immersion.
@@ -67,6 +71,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Couchsurfing](http://couchsurfing.com) - The ultimate budget accommodation, meet new people and join in local experiences in exchange for a free bed or couch.
 - [Colive.co](http://colive.co) - Find and organise coliving arrangements with other nomads.
 - [Coliving](https://coliving.com) - Find coliving spaces around the world to live with like-minded individuals.
+- [Booking](https://www.booking.com/) - From hostels to hotels to guest houses.
 
 ## Getting Around
 - [Moovit](http://moovitapp.com) - The worlds largest transit app supporting over 1,200 cities in over 70 countries - _iOS and Android_.
@@ -89,6 +94,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Nomad List Radar](http://nomadlist.com/radar) - Keep track of your nomadic friends whereabouts and meet up for :beers: when your paths cross.
 - [Withlocals](http://withlocals.com) - Find paid tours and experiences with verified locals in over 20 countries.
 - [Party with a Local](http://partywithalocal.com) - Find locals and travelers in your area that are down to party - _iOS and Android_.
+- [Visit](https://visit.org/worldwide) - Immersive day activities you won't find anywhere else.
 
 ## Remote Jobs
 - [Remote: Office Not Required](http://37signals.com/remote) - Great book by 37signals, which shows both employers and employees how they can work together, remotely, from any desk, in any space, in any place, anytime, anywhere.
@@ -133,6 +139,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Moneytis](https://moneytis.com) - Compare foreign money transfer services to make sure you get the best deal.
 - [Monzo](https://monzo.com) - Smartphone-friendly UK bank with zero fees abroad.
 - [Multi-currency budgeting with Google Sheets](https://medium.com/@richdecibels/multi-currency-budgeting-for-digital-nomads-68da7687e3d1) - use some clever Google Sheets formulas to track predicted income and expenses in any currency.
+- [Local Bitcoins](https://localbitcoins.com/) - Trade Bitcoins for money, in person or remotely.
 
 ## Security & Backup
 - [Avast Antivirus](https://avast.com) - The worlds number one free antivirus solution.
@@ -178,6 +185,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Dropbox Paper](https://www.dropbox.com/paper) - Collaborate on documents and ideas with your remote colleagues using this flexible workspace.
 - [Trello](https://trello.com) - Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible and rewarding way.
 - [Basecamp](https://basecamp.com) - Basecamp organizes your projects, internal communications, and client work in one place so you have a central source of truth.
+- [Taskade](https://taskade.com) - Create notes, checklists, and outlines with your team. Collaborate and edit together in real-time.
 
 ## Miscellaneous
 - [Noizio](http://noiz.io) - Ambient sound mixer to help you focus in busy places. Parisian Cafe during a thunderstorm? Check! - _iOS and Android_.
