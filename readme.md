@@ -67,6 +67,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 
 ## Accommodation
 - [Airbnb](http://airbnb.com) - Short term rooms and private apartments at affordable rates.
+- [Nomad Rental](https://nomadrental.com) - Curated listings for Digital Nomad looking for short and long term serviced apartments and extended stay for weekly and monthly rental.
 - [Kayak](http://kayak.com/hotels) - Compare hotel prices across leading booking websites including Expedia, Booking.com, Agoda, and Hotels.com.
 - [Hostelworld](http://hostelworld.com) - Budget accommodation for nomads that prefer a more social environment or need to keep costs down.
 - [Couchsurfing](http://couchsurfing.com) - The ultimate budget accommodation, meet new people and join in local experiences in exchange for a free bed or couch.
