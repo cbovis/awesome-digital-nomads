@@ -71,6 +71,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Couchsurfing](http://couchsurfing.com) - The ultimate budget accommodation, meet new people and join in local experiences in exchange for a free bed or couch.
 - [Colive.co](http://colive.co) - Find and organise coliving arrangements with other nomads.
 - [Coliving](https://coliving.com) - Find coliving spaces around the world to live with like-minded individuals.
+- [Booking](https://www.booking.com/) - From hostels to hotels to guest houses.
 
 ## Getting Around
 - [Moovit](http://moovitapp.com) - The worlds largest transit app supporting over 1,200 cities in over 70 countries - _iOS and Android_.
