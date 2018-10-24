@@ -44,6 +44,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 
 ## Insurance
 - [World Nomads](https://www.worldnomads.com/) - Travel insurance for short and long periods, with possiblity to cover the whole world.
+- [Atlas Travel Insurance](https://www.hccmis.com/atlas-travel-insurance-quote?referid=9800270) -  Customizable coverage for travelers looking to cover specific needs while abroad.
 
 ## Retreats
 - [Destination: Dev](http://destinationdev.com) - Program that brings together 10 like-minded individuals for eight intense weeks of software development education and cultural immersion.
