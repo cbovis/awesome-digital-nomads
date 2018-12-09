@@ -91,6 +91,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Maps.me](http://maps.me) - Offline maps and POIs to get you around on foot when you don't have an internet connection - _iOS, Android, and Kindle Fire_.
 - [Waze](http://waze.com) - The world's largest community-based traffic and navigation app. Perfect for those brave enough to drive abroad - _iOS and Android_.
 - [The Man in Seat Sixy-One](http://seat61.com) - The ultimate guide to train travel around the world.
+- [12Go Asia](https://12go.asia/en) - Online service for booking trains, buses and ferries across large parts of SE Asia.
 
 ## Communities & Social
 - [Nomad List Chat](http://nomadlist.com/chat) - Connect with other nomads to get advice or organise meetups.
