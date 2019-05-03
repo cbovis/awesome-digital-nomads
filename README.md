@@ -6,6 +6,8 @@ Looking for contributors. Submit a pull request if you have something to add :)
 _Please check the [contribution guidelines](contributing.md) for info on formatting and writing pull requests._
 
 ## Contents
+- [Awesome Digital Nomads ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-digital-nomads-awesomehttpsgithubcomsindresorhusawesome)
+- [Contents](#contents)
 - [Travel Planning](#travel-planning)
 - [Insurance](#insurance)
 - [Retreats](#retreats)
@@ -14,6 +16,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Getting Around](#getting-around)
 - [Communities & Social](#communities--social)
 - [Remote Jobs](#remote-jobs)
+- [Workspaces](#workspaces)
 - [Gear](#gear)
 - [Finance](#finance)
 - [Security & Backup](#security--backup)
@@ -24,6 +27,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Miscellaneous](#miscellaneous)
 - [Destination Guides](#destination-guides)
 - [Travel Visas](#travel-visas)
+- [License](#license)
 
 ## Travel Planning
 - [Lonely Planet](http://lonelyplanet.com) - The most recognised travel guides for over fourty years, start here for inspiration.
@@ -45,6 +49,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 ## Insurance
 - [World Nomads](https://www.worldnomads.com/) - Travel insurance for short and long periods, with possiblity to cover the whole world.
 - [Atlas Travel Insurance](https://www.hccmis.com/atlas-travel-insurance-quote?referid=9800270) -  Customizable coverage for travelers looking to cover specific needs while abroad.
+- [SafetyWing](https://safetywing.com/) - Nomad travel insurance for both short and long periods.
 
 ## Retreats
 - [Destination: Dev](http://destinationdev.com) - Program that brings together 10 like-minded individuals for eight intense weeks of software development education and cultural immersion.
@@ -79,6 +84,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Colive.co](http://colive.co) - Find and organise coliving arrangements with other nomads.
 - [Coliving](https://coliving.com) - Find coliving spaces around the world to live with like-minded individuals.
 - [Booking](https://www.booking.com/) - From hostels to hotels to guest houses.
+- [Agoda](https://www.agoda.com/) - Booking/Airbnb but much more suited to SE Asia.
 
 ## Getting Around
 - [Moovit](http://moovitapp.com) - The worlds largest transit app supporting over 1,200 cities in over 70 countries - _iOS and Android_.
