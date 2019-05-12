@@ -204,6 +204,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 ## Miscellaneous
 - [Noizio](http://noiz.io) - Ambient sound mixer to help you focus in busy places. Parisian Cafe during a thunderstorm? Check! - _iOS and Android_.
 - [Duet Display](https://www.duetdisplay.com) - Use your iPhone or iPad as an extra display for your Mac or PC - _iOS, macOS and Windows_.
+- [spacedesk](https://www.spacedesk.net) - Extend or duplicate your Windows display to another device (for free)-  _iOS, Android, Windows and HTML5 Web browser_.
 - [One Way Ticket](http://digitalnomaddocumentary.com) - A documentary looking at the rise of the digital nomad around the world. Through interviews with advocates, academics and authorities, this film examines issues surrounding the supposed "dream life".
 
 ## Destination Guides
