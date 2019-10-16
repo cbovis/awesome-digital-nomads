@@ -132,13 +132,13 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Minaal Carry-on 2.0](https://www.minaal.com/products/minaal-carry-on-bag) - A _(more stylish?)_ alternative to the Tortuga Outbreaker with similar features. Check them both out and see which you prefer.
 - [Anker Portable Chargers](https://www.anker.com/products/taxons/107/Portable%20Chargers) - USB battery packs are an essential bit of kit these days and you can't go wrong with something from Anker.
 - [Omnicharge](https://omnicharge.co) - For a portable charger that packs a bit more punch, check out the Omnicharge with its universal power outlet that will let you charge devices such as laptops in addition to your phone and tablet.
-- [Logitech MX Anywhere 2](http://www.logitech.com/en-us/product/mx-anywhere2?crid=7) - Logitech have a track record of releasing high quality peripherals and when it comes to portable mice they don't disappoint with the MX Anywhere 2.
+- [Logitech MX Anywhere 2s](https://www.logitech.com/product/mx-anywhere-2s-flow) - Logitech have a track record of releasing high quality peripherals and when it comes to portable mice they don't disappoint with the MX Anywhere 2s.
 - [UE Boom 2](http://www.ultimateears.com/en-us/ueboom2) - If you don't mind the extra weight then portable speakers are a great way to turn any room into a home. The UE Boom series consistently comes out top in reviews thanks to great sound, rugged protection and good looks.
 - [JBL Clip 2](http://www.jbl.com/bluetooth-speakers/JBL+CLIP+2.html) - If you mind carrying extra weight, the JBL Clip 2 is a good option with only 184g. Quality is not as good as a stereo speaker but it still does the job pretty well.
 - [LaCie Rugged Mobile Storage](http://www.lacie.com/as/en/professional/rugged/) - Keep your backups safe with a drive from the LaCie rugged series, trusted by professionals across the globe.
 - [Bose QC20 Noise Cancelling Earphones](https://www.bose.com/en_us/products/headphones/earphones/quietcomfort-20i-acoustic-noise-cancelling-headphones.html) - Public transport can be a noisy affair but if you have the cash to spare then the QC20s are the best around when it comes to noise cancelling headphones in a small package.
-- [Google Chromecast](https://www.google.com/chromecast/tv) - Chromecast is a media streaming device that plugs into the HDMI port on your TV. Simply use a compatible mobile, tablet or PC device and the TV in your accommodation to watch your favourite TV shows, films, music, sport, games and more on the big screen
-- [Kindle Paperwhite](https://www.amazon.com/Kindle-Paperwhite-Ereader/dp/B00AWH595M) - Highly portable, easy on the eyes, readable in sunlight, instant access to the worlds largest bookstore and capable of holding over 1,000 books – the Kindle Paperwhite provides a great combination of features and affordability.
+- [Google Chromecast](https://store.google.com/product/chromecast) - Chromecast is a media streaming device that plugs into the HDMI port on your TV. Simply use a compatible mobile, tablet or PC device and the TV in your accommodation to watch your favourite TV shows, films, music, sport, games and more on the big screen
+- [Kindle Paperwhite](https://www.amazon.com/Kindle-Paperwhite-Waterproof-Storage-Special/dp/B07CXG6C9W) - Highly portable, easy on the eyes, readable in sunlight, waterproof, instant access to the worlds largest bookstore and capable of holding over 1,000 books – the Kindle Paperwhite provides a great combination of features and affordability.
 - [Mountie](https://tenonedesign.com/mountie.php) - Clip your smartphone or tablet onto your laptop for a portable dual monitor set up. Works well with
 [Duet Display](https://duetdisplay.com).
 - [Gerber Shard](http://www.gerbergear.com/Activity/Everyday/Tools/Shard-Keychain-Tool_22-01769) - Want to take a multi-tool with you but can't get traditional ones past airport security without checked baggage? The Gerber Shard is a great solution to this predicament, packing six useful functions into an airline friendly form-factor.
@@ -165,7 +165,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [BackBlaze](https://backblaze.com) - Low cost and easy to use cloud backup for Mac and PC.
 - [SpiderOak One](https://spideroak.com/solutions/spideroak-one) - Dropbox, Google Drive and Backblaze all take your data security very seriously but if you're especially concerned about privacy then check out the [Snowden endorsed](https://www.theguardian.com/technology/2014/jul/17/edward-snowden-dropbox-privacy-spideroak) SpiderOak.
 - [Authy](https://authy.com) - The best choice for cross platform two-factor authentication.
-- [Ghostery](https://ghostery.com/our-solutions/ghostery-browser-extension/) - Fantastic extension for blocking trackers in all major web browsers.
+- [Ghostery](https://www.ghostery.com/products/) - Fantastic extension for blocking trackers in all major web browsers.
 - [Purify](https://purify-app.com) - The most efficient app for blocking ads & trackers on iOS.
 - [Find My iPhone](https://apple.com/icloud/find-my-iphone.html) - If you're in the Apple ecosystem then be sure to enable Find My iPhone on all your devices.
 
@@ -191,7 +191,6 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 ## Food & Drink
 - [Foursquare](http://foursquare.com/download) - Find the best places to eat, drink, shop, or visit in any city in the world - _iOS, Android, and Windows Phone_.
 - [HappyCow](https://www.happycow.net) - Find great vegetarian and vegan restaurants near you, Foursquare for animal lovers :cow: - _iOS and Android_.
-- [Don't Eat Alone](http://www.donteatalone.co) - Make informal meal plans with strangers & friends – connect with people over a meal.
 
 ## Team Collaboration
 - [Standup Bot](https://standupbot.com) - Run your standup meetings remotely via Slack and have your meeting notes automatically organised for you.
