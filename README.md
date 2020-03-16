@@ -107,7 +107,6 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Facebook Groups](http://groups.fb.com) - Find groups for buying/selling, hiking, common interests, local advice and more.
 - [Nomad List Radar](http://nomadlist.com/radar) - Keep track of your nomadic friends whereabouts and meet up for :beers: when your paths cross.
 - [Withlocals](http://withlocals.com) - Find paid tours and experiences with verified locals in over 20 countries.
-- [Party with a Local](http://partywithalocal.com) - Find locals and travelers in your area that are down to party - _iOS and Android_.
 - [Visit](https://visit.org/worldwide) - Immersive day activities you won't find anywhere else.
 
 ## Remote Jobs
