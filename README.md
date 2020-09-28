@@ -54,7 +54,6 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 ## Retreats
 - [Destination: Dev](http://destinationdev.com) - Program that brings together 10 like-minded individuals for eight intense weeks of software development education and cultural immersion.
 - [Hacker Paradise](http://hackerparadise.org) - Hacker Paradise have been organising three month long coworking retreats for developers, designers and entrepreneurs since 2014.
-- [LiveWorkFit](http://liveworkfit.com) - A series of affordable one month retreats with a focus on mind and body health to maximize your business and personal potential.
 - [Nomad House](http://nomadhouse.io) - Spend 10 days exploring a new location, working hard (anywhere) and connecting to a community built on shared values.
 - [Unsettled](http://beunsettled.co) - 30-day coworking retreats to take your work, life, and adventures beyond traditional borders.
 - [WiFi Tribe](http://wifitribe.co) - Coworking retreat which allows you to hop on or off at any point, stay a month, or a year to explore a whole continent with like-minded individuals, one country at a time.
