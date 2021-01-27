@@ -217,6 +217,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 
 ## Travel Visas
 - [Brazil - Itamaraty](http://www.portalconsular.itamaraty.gov.br/tabela-de-vistos-para-cidadaos-brasileiros) - Information about visas for Brazilians.
+- [Atlas](https://www.atlasvisa.co/) - App to prepare visa applications quickly.
 
 ## License
 
