@@ -115,6 +115,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Freelancer](http://freelancer.com) - The world's largest freelancing and crowdsourcing marketplace by number of users and projects, connecting over 22 million employers and freelancers.
 - [Toptal](https://toptal.com) - Join an exclusive network of the top freelance software developers, designers, and finance experts in the world. Top companies rely on Toptal freelancers for their most important projects.
 - [DailyRemote](https://dailyremote.com) - Filter and find remote jobs for every role.
+- [Remotesome](https://remotesome.com) - Jobs at remote-first companies for talent worldwide.
 
 ## Workspaces
 - [Workfrom](http://workfrom.co) - The most comprehensive directory of public and private workspaces across the globe.
