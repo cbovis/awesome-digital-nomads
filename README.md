@@ -166,6 +166,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Ghostery](https://www.ghostery.com/products/) - Fantastic extension for blocking trackers in all major web browsers.
 - [Purify](https://purify-app.com) - The most efficient app for blocking ads & trackers on iOS.
 - [Find My iPhone](https://apple.com/icloud/find-my-iphone.html) - If you're in the Apple ecosystem then be sure to enable Find My iPhone on all your devices.
+- [Firezone](https://www.firezone.dev/) - Self-hosted VPN server using WireGuard. Helpful for developers who need to access their NAS or server resources on the road.
 
 ## Communication
 - [Facebook Messenger](http://messenger.com) - The best way to keep in touch with friends and family – chat, video, voice calls and group chat for free.
