@@ -179,6 +179,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Project Fi](http://fi.google.com) - One single low cost plan for all of your phone calls, SMS and mobile data worldwide - _U.S Citizens on Android only_.
 - [Airalo](https://www.airalo.com/) - Inexpensive global eSIM provider for mobile data.
 - [Rebtel](https://www.rebtel.com/en/) - Cheap international calls anywhere in the world. Alternative to Skype.
+- [Red Bull MOBILE Data](https://esim.redbullmobile.com/) - easy to use eSIM app for affordable international data roaming packages.
 
 ## Languages
 - [Google Translate](http://translate.google.com) - The big daddy of translation apps with support for over 100 languages and 50 offline languages as well as photo translation - _iOS and Android_.
