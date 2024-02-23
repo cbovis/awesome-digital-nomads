@@ -88,7 +88,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 
 ## Getting Around
 - [Moovit](http://moovitapp.com) - The worlds largest transit app supporting over 1,200 cities in over 70 countries - _iOS and Android_.
-- [TransitApp](https://transitapp.com) - Transit is simplifying the commute in more than 300 cities and 18 countries. It allows crowdsourced transit vehicle tracking and their *GO* navigation system which tells you when to leave, available on _iOS and Android_. 
+- [TransitApp](https://transitapp.com) - Transit is simplifying the commute in more than 300 cities and 18 countries. It allows crowdsourced transit vehicle tracking and their **GO** navigation system which tells you when to leave, available on _iOS and Android_. 
 - [Citymapper](http://citymapper.com) - Arguably the best transit app available but limited to 40 cities. Use it when you can and fall back to Moovit if necessary - _iOS and Android_.
 - [Rome2rio](http://rome2rio.com) - Global trip planner which gets you from A to B using flights, ferries, trains and buses. Great for when you're moving between cities - _iOS and Android_.
 - [Uber](http://uber.com) - The big daddy of ride sharing apps, it goes without saying this should be on your phone. Available in over 500 cities worldwide - _iOS, Android, and Windows Phone_.
