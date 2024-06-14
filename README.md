@@ -6,28 +6,28 @@ Looking for contributors. Submit a pull request if you have something to add :)
 _Please check the [contribution guidelines](contributing.md) for info on formatting and writing pull requests._
 
 ## Contents
-- [Awesome Digital Nomads ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-digital-nomads-awesomehttpsgithubcomsindresorhusawesome)
-- [Contents](#contents)
-- [Travel Planning](#travel-planning)
-- [Insurance](#insurance)
-- [Retreats](#retreats)
-- [Flights](#flights)
-- [Accommodation](#accommodation)
-- [Getting Around](#getting-around)
-- [Communities & Social](#communities--social)
-- [Remote Jobs](#remote-jobs)
-- [Workspaces](#workspaces)
-- [Gear](#gear)
-- [Finance](#finance)
-- [Security & Backup](#security--backup)
-- [Communication](#communication)
-- [Languages](#languages)
-- [Food & Drink](#food--drink)
-- [Team Collaboration](#team-collaboration)
-- [Miscellaneous](#miscellaneous)
-- [Destination Guides](#destination-guides)
-- [Travel Visas](#travel-visas)
-- [License](#license)
+- [Awesome Digital Nomads ](#awesome-digital-nomads-)
+  - [Contents](#contents)
+  - [Travel Planning](#travel-planning)
+  - [Insurance](#insurance)
+  - [Retreats](#retreats)
+  - [Flights](#flights)
+  - [Accommodation](#accommodation)
+  - [Getting Around](#getting-around)
+  - [Communities \& Social](#communities--social)
+  - [Remote Jobs](#remote-jobs)
+  - [Workspaces](#workspaces)
+  - [Gear](#gear)
+  - [Finance](#finance)
+  - [Security \& Backup](#security--backup)
+  - [Communication](#communication)
+  - [Languages](#languages)
+  - [Food \& Drink](#food--drink)
+  - [Team Collaboration](#team-collaboration)
+  - [Miscellaneous](#miscellaneous)
+  - [Destination Guides](#destination-guides)
+  - [Travel Visas](#travel-visas)
+  - [License](#license)
 
 ## Travel Planning
 - [Lonely Planet](http://lonelyplanet.com) - The most recognised travel guides for over fourty years, start here for inspiration.
@@ -177,6 +177,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Prepaid Data Sim Card Wiki](http://prepaid-data-sim-card.wikia.com/wiki/Prepaid_SIM_with_data) - Find out information on prepaid sim cards in over 150 countries.
 - [ChatSim](http://chatsim.com) - Unlimited chat using your favourite apps in over 150 countries for a single yearly fee.
 - [Project Fi](http://fi.google.com) - One single low cost plan for all of your phone calls, SMS and mobile data worldwide - _U.S Citizens on Android only_.
+- [Nomad](https://www.getnomad.app) - Travel like a Local.
 - [Airalo](https://www.airalo.com/) - Inexpensive global eSIM provider for mobile data.
 - [Rebtel](https://www.rebtel.com/en/) - Cheap international calls anywhere in the world. Alternative to Skype.
 
