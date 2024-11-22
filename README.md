@@ -135,7 +135,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [JBL Clip 2](http://www.jbl.com/bluetooth-speakers/JBL+CLIP+2.html) - If you mind carrying extra weight, the JBL Clip 2 is a good option with only 184g. Quality is not as good as a stereo speaker but it still does the job pretty well.
 - [LaCie Rugged Mobile Storage](http://www.lacie.com/as/en/professional/rugged/) - Keep your backups safe with a drive from the LaCie rugged series, trusted by professionals across the globe.
 - [Bose QC20 Noise Cancelling Earphones](https://www.bose.com/en_us/products/headphones/earphones/quietcomfort-20i-acoustic-noise-cancelling-headphones.html) - Public transport can be a noisy affair but if you have the cash to spare then the QC20s are the best around when it comes to noise cancelling headphones in a small package.
-- [Google Chromecast](https://store.google.com/product/chromecast) - Chromecast is a media streaming device that plugs into the HDMI port on your TV. Simply use a compatible mobile, tablet or PC device and the TV in your accommodation to watch your favourite TV shows, films, music, sport, games and more on the big screen
+- [Google TV](https://tv.google/products/) (replacing Chromecast) - media streaming device that plugs into the HDMI port on your TV. Use a compatible mobile, tablet or PC device and the TV in your accommodation to watch your favourite TV shows, films, music, sport, games and more on the big screen. You can stream from VLC on Linux, but quality most likely will be dubious.
 - [Kindle Paperwhite](https://www.amazon.com/Kindle-Paperwhite-Waterproof-Storage-Special/dp/B07CXG6C9W) - Highly portable, easy on the eyes, readable in sunlight, waterproof, instant access to the worlds largest bookstore and capable of holding over 1,000 books – the Kindle Paperwhite provides a great combination of features and affordability.
 - [Mountie](https://tenonedesign.com/mountie.php) - Clip your smartphone or tablet onto your laptop for a portable dual monitor set up. Works well with
 [Duet Display](https://duetdisplay.com).
@@ -144,7 +144,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 ## Finance
 - [Revolut](https://revolut.com) - Low fee travel money card with beautiful companion apps for iOS and Android.
 - *xCurrency* - Beautiful and easy to use currency converter - _[iOS](https://itunes.apple.com/us/app/xcurrency-simple-currency/id851033695?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.tratao.xcurrency&hl=en)_.
-- [TransferWise](http://transferwise.com) - Easy to use, low fee, money transfer service supported in over 50 countries.
+- [Wise](http://wise.com) - Easy to use, low fee, money transfer service supported in over 50 countries. Formerly TransferWise.
 - [Toshl Finance](http://toshl.com) - Fantastic finance management app with support for multiple currencies, ideal for people on the move - _iOS, Android, and Windows Phone_.
 - [The Elements Of Investing](http://goodreads.com/book/show/6743598-the-elements-of-investing) - A timeless, easy-to-read guide on life-long investment principles that can help any investor succeed.
 - [Quidco](http://quidco.com) - The UKs largest cashback website, check here before booking flights and accommodation to see if you can get cashback on your purchases.
@@ -168,6 +168,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Find My iPhone](https://apple.com/icloud/find-my-iphone.html) - If you're in the Apple ecosystem then be sure to enable Find My iPhone on all your devices.
 
 ## Communication
+- [eSIMdb](https://esimdb.com/) - compare eSIMs with coverage in one or multiple countries. Filter for voice+SMS by clicking "Hide data only". No KYC filter. Less buggy than [eSIMs.i](https://esims.io), which is much faster than [eSimCompare](https://esimscompare.com), which is still better than [SimBud](https://simbud.com).
+- [Airalo](https://www.airalo.com/) - One of the global and regional eSIM providers listead by the comparison sites above, along with [Nomad](https:/.getnomad.app) and [Saily](https://saily.com/). Did not require KYC.
 - [Facebook Messenger](http://messenger.com) - The best way to keep in touch with friends and family – chat, video, voice calls and group chat for free.
 - [WhatsApp](http://whatsapp.com) - Keep in touch with people you don't have on Facebook, it goes without saying that WhatsApp should be in your kit. Available for most platforms.
 - [Skype](http://skype.com/) - The defacto option for many when it comes to business video calling.
@@ -177,7 +179,6 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Prepaid Data Sim Card Wiki](http://prepaid-data-sim-card.wikia.com/wiki/Prepaid_SIM_with_data) - Find out information on prepaid sim cards in over 150 countries.
 - [ChatSim](http://chatsim.com) - Unlimited chat using your favourite apps in over 150 countries for a single yearly fee.
 - [Project Fi](http://fi.google.com) - One single low cost plan for all of your phone calls, SMS and mobile data worldwide - _U.S Citizens on Android only_.
-- [Airalo](https://www.airalo.com/) - Inexpensive global eSIM provider for mobile data.
 - [Rebtel](https://www.rebtel.com/en/) - Cheap international calls anywhere in the world. Alternative to Skype.
 
 ## Languages
