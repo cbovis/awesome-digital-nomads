@@ -100,6 +100,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [12Go Asia](https://12go.asia/en) - Online service for booking trains, buses and ferries across large parts of SE Asia.
 
 ## Communities & Social
+- [Punta.app](https://punta.app) - Connect with digital nomads before reaching your next destination. The ultimate social app for nomads.
 - [Nomad List Chat](http://nomadlist.com/chat) - Connect with other nomads to get advice or organise meetups.
 - [Digital Nomad Forum](http://nomadforum.io) - Need advice from other nomads but don't have time to sit around waiting for answers in the chat room? Start a topic on the forum...
 - [Couchsurfing](http://couchsurfing.com) - Couchsurfing isn't just for free sofas. Find groups and social events in cities around the world.
@@ -209,6 +210,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Hecatee, your anti-jetlag coach](https://play.google.com/store/apps/details?id=com.hecatee) - Android app which creates personalized anti-jetlag protocol
 
 ## Destination Guides
+- [Puntaa.app Digital nomad guides](https://punta.app/digital-nomad-guides) 
 - [Ubud, Bali](http://www.neverendingvoyage.com/digital-nomad-guide-living-in-ubud/)
 - [Medellín, Colombia](http://www.webworktravel.com/medellin-digital-nomad/#wheretowork)
 - [Galápagos Islands, Ecuador](http://www.webworktravel.com/digital-nomad-guide-galapagos-islands/)
