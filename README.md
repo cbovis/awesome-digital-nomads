@@ -122,6 +122,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Copass](http://copass.org) - Global network of over 500 coworking spaces accessed via a single monthly membership.
 - [Hoffice](http://hoffice.nu/en/) - Find home offices to work from for free and meet new people in the process.
 - [Work Hard Anywhere](http://workhardanywhere.com) - A collection of 7800+ work-optimized spaces in the palm of your hand. Mobile. Easy. Constantly updated by your fellow entrepreneurs, freelancers, and creatives - _iOS and Android_.
+- [Study Near Me](https://studynearme.com/) - Directory to find laptop friendly cafes to work remote at for the day anywhere in the US.
 
 ## Gear
 - [Roost Laptop Stand](http://therooststand.com) - The original portable back-saving laptop stand.
