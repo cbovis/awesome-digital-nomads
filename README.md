@@ -45,7 +45,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Teleport](https://teleport.org/) - Compare cities on quality of life, cost of living, salaries and more.
 - [OpenSignal](https://opensignal.com/) - Get better signal, find free Wifi and see which operator is best in your location.
 - [Quanto Custa Viajar](https://quantocustaviajar.com/) - Information about how much it costs to travel for a specific place. In PT-BR.
-
+- [Novad](https://novad.app/) — Vibe-driven destination finder for digital nomads: discover cities and neighbourhoods that feel like home.
+  
 ## Insurance
 - [World Nomads](https://www.worldnomads.com/) - Travel insurance for short and long periods, with possiblity to cover the whole world.
 - [Atlas Travel Insurance](https://www.hccmis.com/atlas-travel-insurance-quote?referid=9800270) -  Customizable coverage for travelers looking to cover specific needs while abroad.
