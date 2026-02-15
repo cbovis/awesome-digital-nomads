@@ -216,6 +216,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Tarifa, Spain](http://www.webworktravel.com/tarifa-digital-nomad-guide/)
 - [Chiang Mai, Thailand](http://www.johnnyfd.com/2015/07/johnnys-guide-to-chiang-mai-thailand.html)
 - [Hoi An, Vietnam](http://www.neverendingvoyage.com/digital-nomad-hoi-an-guide/)
+- [Maldives](https://yein.cn) - Comprehensive Maldives travel guide with intelligent island selector for 185+ resorts, flight routes, budget tips, and themed travel categories.
 
 ## Travel Visas
 - [Brazil - Itamaraty](http://www.portalconsular.itamaraty.gov.br/tabela-de-vistos-para-cidadaos-brasileiros) - Information about visas for Brazilians.
