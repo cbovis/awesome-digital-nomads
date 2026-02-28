@@ -115,6 +115,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Freelancer](http://freelancer.com) - The world's largest freelancing and crowdsourcing marketplace by number of users and projects, connecting over 22 million employers and freelancers.
 - [Toptal](https://toptal.com) - Join an exclusive network of the top freelance software developers, designers, and finance experts in the world. Top companies rely on Toptal freelancers for their most important projects.
 - [DailyRemote](https://dailyremote.com) - Filter and find remote jobs for every role.
+- [4DayJob](https://4dayjob.com) - Dedicated job board for 4-day work week positions across all industries, with 1,500+ remote and flexible jobs.
 
 ## Workspaces
 - [Workfrom](http://workfrom.co) - The most comprehensive directory of public and private workspaces across the globe.
