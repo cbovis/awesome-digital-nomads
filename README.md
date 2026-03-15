@@ -21,6 +21,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Finance](#finance)
 - [Security & Backup](#security--backup)
 - [Communication](#communication)
+- [Nubo Email](https://nubo.email) - Privacy-first email platform with calendar, drive, and video meetings. Organization-based pricing.
 - [Languages](#languages)
 - [Food & Drink](#food--drink)
 - [Team Collaboration](#team-collaboration)
