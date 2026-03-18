@@ -216,7 +216,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Tarifa, Spain](http://www.webworktravel.com/tarifa-digital-nomad-guide/)
 - [Chiang Mai, Thailand](http://www.johnnyfd.com/2015/07/johnnys-guide-to-chiang-mai-thailand.html)
 - [Hoi An, Vietnam](http://www.neverendingvoyage.com/digital-nomad-hoi-an-guide/)
-
+- [Where Do I Move To](https://wheredoimoveto.com) - Get personalized city and country relocation recommendations based on 50+ factors.
+ 
 ## Travel Visas
 - [Brazil - Itamaraty](http://www.portalconsular.itamaraty.gov.br/tabela-de-vistos-para-cidadaos-brasileiros) - Information about visas for Brazilians.
 
