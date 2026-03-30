@@ -219,6 +219,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 
 ## Travel Visas
 - [Brazil - Itamaraty](http://www.portalconsular.itamaraty.gov.br/tabela-de-vistos-para-cidadaos-brasileiros) - Information about visas for Brazilians.
+- [Bulgaria Digital Nomad Visa 2026](https://bgsettle.com/blog/bulgaria-digital-nomad-visa-2026) - Step-by-step guide to Bulgaria's official digital nomad visa launched in December 2025.
 
 ## License
 
