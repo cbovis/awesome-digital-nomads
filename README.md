@@ -5,6 +5,7 @@ Looking for contributors. Submit a pull request if you have something to add :)
 
 _Please check the [contribution guidelines](contributing.md) for info on formatting and writing pull requests._
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for digital nomad workflow orchestration, automated remote work pipeline management, and multi-agent coordination. MIT licensed.
 ## Contents
 - [Awesome Digital Nomads ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-digital-nomads-awesomehttpsgithubcomsindresorhusawesome)
 - [Contents](#contents)
