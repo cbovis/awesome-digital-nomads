@@ -108,6 +108,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Withlocals](http://withlocals.com) - Find paid tours and experiences with verified locals in over 20 countries.
 - [Visit](https://visit.org/worldwide) - Immersive day activities you won't find anywhere else.
 
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw. Discover, share, and sell AI agent capabilities.
 ## Remote Jobs
 - [Remote: Office Not Required](http://37signals.com/remote) - Great book by 37signals, which shows both employers and employees how they can work together, remotely, from any desk, in any space, in any place, anytime, anywhere.
 - [We Work Remotely](http://weworkremotely.com/) - Find your next remote gig with the companion website to 'Remote: Office Not Required'.
