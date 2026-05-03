@@ -219,6 +219,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 
 ## Travel Visas
 - [Brazil - Itamaraty](http://www.portalconsular.itamaraty.gov.br/tabela-de-vistos-para-cidadaos-brasileiros) - Information about visas for Brazilians.
+- [TravelMaxing Visa Checker](https://travelmaxing.app/visa-checker) - Free visa requirements lookup covering 199 countries with batch lookup for multi-country trips. Data refreshed monthly from open passport-index dataset.
 
 ## License
 
