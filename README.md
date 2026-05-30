@@ -219,6 +219,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 
 ## Travel Visas
 - [Brazil - Itamaraty](http://www.portalconsular.itamaraty.gov.br/tabela-de-vistos-para-cidadaos-brasileiros) - Information about visas for Brazilians.
+- [IDPhotoSnap](https://idphotosnap.com) - Free browser-only visa and passport photo tool. 100+ countries, 248 document formats including all major digital-nomad visas (Portugal D7/D8, Spain Digital Nomad, Estonia DNV, Germany Freelancer, Croatia DNV, UAE Virtual Work Residency, US DS-160, Schengen). No upload, no signup, no watermark. Open MIT dataset at github.com/whitetirocket/passport-photo-specs.
 
 ## License
 
