@@ -154,6 +154,9 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Multi-currency budgeting with Google Sheets](https://medium.com/@richdecibels/multi-currency-budgeting-for-digital-nomads-68da7687e3d1) - use some clever Google Sheets formulas to track predicted income and expenses in any currency.
 - [Local Bitcoins](https://localbitcoins.com/) - Trade Bitcoins for money, in person or remotely.
 
+### Business Formation
+- [LLC Class](https://llcclass.com) — Wyoming LLC formation for remote founders and non-US residents: state filing, registered agent, EIN application, BOI compliance. No US address needed.
+
 ## Security & Backup
 - [Avast Antivirus](https://avast.com) - The worlds number one free antivirus solution.
 - [1Password](https://1password.com) - The gold standard of password management apps, you should be using a password manager anyway but it's especially important on the move.
