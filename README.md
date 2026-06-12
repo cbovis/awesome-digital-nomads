@@ -153,6 +153,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Monzo](https://monzo.com) - Smartphone-friendly UK bank with zero fees abroad.
 - [Multi-currency budgeting with Google Sheets](https://medium.com/@richdecibels/multi-currency-budgeting-for-digital-nomads-68da7687e3d1) - use some clever Google Sheets formulas to track predicted income and expenses in any currency.
 - [Local Bitcoins](https://localbitcoins.com/) - Trade Bitcoins for money, in person or remotely.
+- [LLC Class](https://llcclass.com/wyoming) - Wyoming LLC registration for non-US founders, starting at $199. Includes [registered agent](https://llcclass.com/what-is-llc-registered-agent), EIN, and operating agreement — everything needed to accept Stripe and Mercury payments as a digital nomad.
 
 ## Security & Backup
 - [Avast Antivirus](https://avast.com) - The worlds number one free antivirus solution.
