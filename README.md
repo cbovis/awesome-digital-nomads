@@ -186,7 +186,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Food Allergy Translate](http://foodallergytranslate.com) - Mobile apps and physical cards to notify restaurants of your food allergies - _iOS, Android, and Windows Phone_.
 - [Fluent In 3 Months](https://www.goodreads.com/book/show/18085519-fluent-in-3-months) - If you've always struggled with learning foreign languages then be sure to check out this great book by Benny Lewis.
 - [Duolingo](http://duolingo.com) - The original and arguably most enjoyable language learning app with support for over 20 languages - _iOS, Android and Windows Phone_.
-- [Memrise](http://memrise.com) - Not quite as fun as Duolingo but still a solid contender on the language learning scene with support for over 200 languages - _iOS and Android_.
+- [Memrise](http://memrise.com)
+- [Mandarin Flashcards](https://ordinarymantrying.com/tools/mandarin-hsk1.html) - Free browser-based HSK 1–3 flashcard app for learning Mandarin Chinese — no download, no account, works offline on mobile. - Not quite as fun as Duolingo but still a solid contender on the language learning scene with support for over 200 languages - _iOS and Android_.
 
 ## Food & Drink
 - [Foursquare](http://foursquare.com/download) - Find the best places to eat, drink, shop, or visit in any city in the world - _iOS, Android, and Windows Phone_.
