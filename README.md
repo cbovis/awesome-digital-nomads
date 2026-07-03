@@ -45,6 +45,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Teleport](https://teleport.org/) - Compare cities on quality of life, cost of living, salaries and more.
 - [OpenSignal](https://opensignal.com/) - Get better signal, find free Wifi and see which operator is best in your location.
 - [Quanto Custa Viajar](https://quantocustaviajar.com/) - Information about how much it costs to travel for a specific place. In PT-BR.
+- [Schengen 90/180 Day Counter](https://traveldiscoveryatlas.com/en/tools/schengen-counter) - Free tool to track days used and remaining under the Schengen 90/180 rule, with a shareable link. No signup.
+- [Digital Nomad Visa Matcher](https://traveldiscoveryatlas.com/en/tools/visa-matcher) - Free tool to filter nomad/residency visas by income, processing time and tax break. No signup.
 
 ## Insurance
 - [World Nomads](https://www.worldnomads.com/) - Travel insurance for short and long periods, with possiblity to cover the whole world.
