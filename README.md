@@ -220,6 +220,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 ## Travel Visas
 - [Brazil - Itamaraty](http://www.portalconsular.itamaraty.gov.br/tabela-de-vistos-para-cidadaos-brasileiros) - Information about visas for Brazilians.
 
+- [Flagwise](https://flagwise.me) - Verified facts and community-reported reality on visas, residency, non-resident banking and company setup for 90+ countries, free and ad-free.
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
