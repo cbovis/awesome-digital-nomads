@@ -45,6 +45,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Teleport](https://teleport.org/) - Compare cities on quality of life, cost of living, salaries and more.
 - [OpenSignal](https://opensignal.com/) - Get better signal, find free Wifi and see which operator is best in your location.
 - [Quanto Custa Viajar](https://quantocustaviajar.com/) - Information about how much it costs to travel for a specific place. In PT-BR.
+- [Wander China Planner](https://ordinarymantrying.com/tools/wander-china/planner.html) - Free drag-and-drop itinerary builder for 31 Chinese cities. Covers opening hours, ticket prices, metro stops and budget estimates — no Chinese language skills needed.
 
 ## Insurance
 - [World Nomads](https://www.worldnomads.com/) - Travel insurance for short and long periods, with possiblity to cover the whole world.
@@ -186,7 +187,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Food Allergy Translate](http://foodallergytranslate.com) - Mobile apps and physical cards to notify restaurants of your food allergies - _iOS, Android, and Windows Phone_.
 - [Fluent In 3 Months](https://www.goodreads.com/book/show/18085519-fluent-in-3-months) - If you've always struggled with learning foreign languages then be sure to check out this great book by Benny Lewis.
 - [Duolingo](http://duolingo.com) - The original and arguably most enjoyable language learning app with support for over 20 languages - _iOS, Android and Windows Phone_.
-- [Memrise](http://memrise.com) - Not quite as fun as Duolingo but still a solid contender on the language learning scene with support for over 200 languages - _iOS and Android_.
+- [Memrise](http://memrise.com)
+- [Mandarin Flashcards](https://ordinarymantrying.com/tools/mandarin-hsk1.html) - Free browser-based HSK 1–3 flashcard app for learning Mandarin Chinese — no download, no account, works offline on mobile. - Not quite as fun as Duolingo but still a solid contender on the language learning scene with support for over 200 languages - _iOS and Android_.
 
 ## Food & Drink
 - [Foursquare](http://foursquare.com/download) - Find the best places to eat, drink, shop, or visit in any city in the world - _iOS, Android, and Windows Phone_.
