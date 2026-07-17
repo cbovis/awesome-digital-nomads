@@ -45,6 +45,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Teleport](https://teleport.org/) - Compare cities on quality of life, cost of living, salaries and more.
 - [OpenSignal](https://opensignal.com/) - Get better signal, find free Wifi and see which operator is best in your location.
 - [Quanto Custa Viajar](https://quantocustaviajar.com/) - Information about how much it costs to travel for a specific place. In PT-BR.
+- [Routevia](https://coinsayfasi.github.io/routevia-app/) - AI-powered route planning for exploring Türkiye city by city, with must-see places by province and district - _iOS and Android_.
+- [OneBag](https://coinsayfasi.github.io/onebag/) - Destination-specific carry-on packing lists with bag-weight tracking for 80+ airlines - _iOS and Android_.
 
 ## Insurance
 - [World Nomads](https://www.worldnomads.com/) - Travel insurance for short and long periods, with possiblity to cover the whole world.
