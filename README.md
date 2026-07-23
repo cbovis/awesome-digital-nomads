@@ -219,6 +219,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 
 ## Travel Visas
 - [Brazil - Itamaraty](http://www.portalconsular.itamaraty.gov.br/tabela-de-vistos-para-cidadaos-brasileiros) - Information about visas for Brazilians.
+- [Schengen180](https://schengen180.com) - Free Schengen 90/180 day calculator with trip tracking, planning mode and safe exit dates.
 
 ## License
 
