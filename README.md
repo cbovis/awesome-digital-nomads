@@ -45,6 +45,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Teleport](https://teleport.org/) - Compare cities on quality of life, cost of living, salaries and more.
 - [OpenSignal](https://opensignal.com/) - Get better signal, find free Wifi and see which operator is best in your location.
 - [Quanto Custa Viajar](https://quantocustaviajar.com/) - Information about how much it costs to travel for a specific place. In PT-BR.
+- [Asian Expats](https://asianexpats.com) - AI search for any destination regarding budget, best travel months, internet speed, power plug types, tipping rules and more helpful travel tips and attractions.
 
 ## Insurance
 - [World Nomads](https://www.worldnomads.com/) - Travel insurance for short and long periods, with possiblity to cover the whole world.
