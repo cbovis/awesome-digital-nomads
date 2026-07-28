@@ -209,6 +209,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Hecatee, your anti-jetlag coach](https://play.google.com/store/apps/details?id=com.hecatee) - Android app which creates personalized anti-jetlag protocol
 
 ## Destination Guides
+- [Malta](https://maltaexpat.com) - Independent guide to living in Malta by a resident: real rents by locality, salary and tax calculators, interactive maps.
 - [Ubud, Bali](http://www.neverendingvoyage.com/digital-nomad-guide-living-in-ubud/)
 - [Medellín, Colombia](http://www.webworktravel.com/medellin-digital-nomad/#wheretowork)
 - [Galápagos Islands, Ecuador](http://www.webworktravel.com/digital-nomad-guide-galapagos-islands/)
