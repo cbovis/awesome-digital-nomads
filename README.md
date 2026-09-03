@@ -219,6 +219,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 
 ## Travel Visas
 - [Brazil - Itamaraty](http://www.portalconsular.itamaraty.gov.br/tabela-de-vistos-para-cidadaos-brasileiros) - Information about visas for Brazilians.
+- [Travellagio](https://travellagio.com/explore/) - Interactive 3D globe showing visa requirements by passport alongside live flight prices, across 38 destinations. Free, no signup.
 
 ## License
 
