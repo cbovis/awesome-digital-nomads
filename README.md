@@ -219,6 +219,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 
 ## Travel Visas
 - [Brazil - Itamaraty](http://www.portalconsular.itamaraty.gov.br/tabela-de-vistos-para-cidadaos-brasileiros) - Information about visas for Brazilians.
+- [GlobeNomad Visa Dataset](https://globenomad.com/data) - Free CC BY dataset of 53 long-stay and nomad visa programmes across 46 countries, each sourced to a government page with a verified date.
 
 ## License
 
