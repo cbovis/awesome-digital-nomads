@@ -178,6 +178,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [ChatSim](http://chatsim.com) - Unlimited chat using your favourite apps in over 150 countries for a single yearly fee.
 - [Project Fi](http://fi.google.com) - One single low cost plan for all of your phone calls, SMS and mobile data worldwide - _U.S Citizens on Android only_.
 - [Airalo](https://www.airalo.com/) - Inexpensive global eSIM provider for mobile data.
+- [ConnectMeGuru](https://www.connectmeguru.com) - Instant prepaid travel eSIM connectivity covering 190+ countries with automated QR delivery.
+
 - [Rebtel](https://www.rebtel.com/en/) - Cheap international calls anywhere in the world. Alternative to Skype.
 
 ## Languages
