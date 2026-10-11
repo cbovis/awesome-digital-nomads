@@ -192,6 +192,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Foursquare](http://foursquare.com/download) - Find the best places to eat, drink, shop, or visit in any city in the world - _iOS, Android, and Windows Phone_.
 - [HappyCow](https://www.happycow.net) - Find great vegetarian and vegan restaurants near you, Foursquare for animal lovers :cow: - _iOS and Android_.
 
+- [TripInfoHub: Vegan Ordering Card for China](https://tripinfohub.com/en/guides/vegetarian-food-restriction-ordering-card-china/) - Free Chinese ordering phrases for vegan travelers, with checks for meat broth, lard and hidden animal ingredients.
+
 ## Team Collaboration
 - [Standup Bot](https://standupbot.com) - Run your standup meetings remotely via Slack and have your meeting notes automatically organised for you.
 - [I Done This](https://home.idonethis.com) - More than 160,000 people use I Done This’s easy daily check-ins and powerful progress reports to run more effective and productive teams.
@@ -225,3 +227,4 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Craig Bovis](https://github.com/cbovis) has waived all copyright and related or neighboring rights to this work.
+
