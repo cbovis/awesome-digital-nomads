@@ -153,6 +153,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Monzo](https://monzo.com) - Smartphone-friendly UK bank with zero fees abroad.
 - [Multi-currency budgeting with Google Sheets](https://medium.com/@richdecibels/multi-currency-budgeting-for-digital-nomads-68da7687e3d1) - use some clever Google Sheets formulas to track predicted income and expenses in any currency.
 - [Local Bitcoins](https://localbitcoins.com/) - Trade Bitcoins for money, in person or remotely.
+- * [SmartStackHubPro](https://smartstackhubpro.com/en/home-english/) - Practical guides and comparisons of banking, multi-currency accounts, eSIMs and digital nomad visas for remote workers and freelancers.
 
 ## Security & Backup
 - [Avast Antivirus](https://avast.com) - The worlds number one free antivirus solution.
