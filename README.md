@@ -74,6 +74,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [LoungeBuddy](https://loungebuddy.com) - Book airport lounge access from US$25 in over 200 lounges worldwide.
 - [Hopper](https://www.hopper.com) - Price prediction app that helps you choose the cheapest time to book your flight *- iOS and Android.*
 - [GTFO - Get The Flight Out](https://itunes.apple.com/us/app/gtfo-get-the-flight-out/id895474816) - In a hurry? GTFO lists the cheapest flights out of your home airport within the next 24 hours _iOS_.
+- [Mubboo Flights](https://mubboo.flights/) - Compare flights, hotels and car rentals, and plan a trip with destination guides, tours and attraction tickets.
 
 ## Accommodation
 - [Airbnb](http://airbnb.com) - Short term rooms and private apartments at affordable rates.
