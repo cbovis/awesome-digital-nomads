@@ -219,6 +219,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 
 ## Travel Visas
 - [Brazil - Itamaraty](http://www.portalconsular.itamaraty.gov.br/tabela-de-vistos-para-cidadaos-brasileiros) - Information about visas for Brazilians.
+- [Atlassio](https://atlassio.co.uk) - Automated Schengen 90/180-day travel compliance and visa calculator for nomads and remote workers. ([Open Source](https://github.com/AtlassioTravel/schengen-calculator-core))
 
 ## License
 
