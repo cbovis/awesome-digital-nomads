@@ -170,7 +170,6 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 ## Communication
 - [Facebook Messenger](http://messenger.com) - The best way to keep in touch with friends and family – chat, video, voice calls and group chat for free.
 - [WhatsApp](http://whatsapp.com) - Keep in touch with people you don't have on Facebook, it goes without saying that WhatsApp should be in your kit. Available for most platforms.
-- [Skype](http://skype.com/) - The defacto option for many when it comes to business video calling.
 - [join.me](http://join.me) - The easiest way to organise group conferences with support for scheduling, video, whiteboarding and screen sharing.
 - [Slack](http://slack.com/is) - Slack has quickly become the go-to team communication tool for many businesses. Get your company on board the train if they're not already.
 - [WiFi Map](http://www.wifimap.io) - Get access to over 100 million free wifi hotspots worldwide - _iOS and Android_.
@@ -179,6 +178,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Project Fi](http://fi.google.com) - One single low cost plan for all of your phone calls, SMS and mobile data worldwide - _U.S Citizens on Android only_.
 - [Airalo](https://www.airalo.com/) - Inexpensive global eSIM provider for mobile data.
 - [Rebtel](https://www.rebtel.com/en/) - Cheap international calls anywhere in the world. Alternative to Skype.
+- [VoixCall](https://voixcall.com/) - Call landlines and mobiles in 160+ countries from your browser or the iOS and Android apps, pay as you go with no subscription. Handy for calling banks, airlines and family back home now that Skype is gone.
 
 ## Languages
 - [Google Translate](http://translate.google.com) - The big daddy of translation apps with support for over 100 languages and 50 offline languages as well as photo translation - _iOS and Android_.
