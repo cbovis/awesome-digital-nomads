@@ -45,6 +45,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Teleport](https://teleport.org/) - Compare cities on quality of life, cost of living, salaries and more.
 - [OpenSignal](https://opensignal.com/) - Get better signal, find free Wifi and see which operator is best in your location.
 - [Quanto Custa Viajar](https://quantocustaviajar.com/) - Information about how much it costs to travel for a specific place. In PT-BR.
+- [Trip2Fest](https://trip2fest.com) - Find music festivals worth travelling for, with trip-cost context and a planner that does not invent dates or prices.
 
 ## Insurance
 - [World Nomads](https://www.worldnomads.com/) - Travel insurance for short and long periods, with possiblity to cover the whole world.
